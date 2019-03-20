@@ -1,0 +1,2274 @@
+#EXTM3U
+#EXTINF:1.83438,Brodilo.TV
+http://brodilo.tv/channel.php
+#EXTINF:2.14879,Матч Премьер
+http://109.248.236.41:4433/udp/238.1.1.76:1234
+#EXTINF:2.816,Brain TV HD
+http://jabber.divan.tv:8002/tv.m3u8
+#EXTINF:7.94017,Первый канал
+http://176.101.224.21:8080/udp/239.195.32.1:1234
+#EXTINF:9.70836,A1
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:3.99837,A2
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:4.224,A2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:8.89323,ACB TV
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:3.0418,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?codec=mpeg4
+#EXTINF:6.67261,Almaty TV (KZ)
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:5.97333,Arirang TV
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v1a1/index.m3u8
+#EXTINF:3.25067,Astana TV
+http://sc.id-tv.kz/astana_36_37.m3u8
+#EXTINF:18.0267,Atameken TV (KZ)
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:2.66709,Bridge TV
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:4.33067,Europa Plus TV [FHD]
+http://live-emg.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8
+#EXTINF:2.49068,Bridge TV Русский хит
+http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTINF:3.65658,Fine Living
+http://ott-cdn.ucom.am/s51/04.m3u8
+#EXTINF:4.85732,Food Network
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:3.35729,MCM TOP
+http://ott-cdn.ucom.am/s49/04.m3u8
+#EXTINF:1.96136,Здоровье
+http://ott-cdn.ucom.am/s90/04.m3u8
+#EXTINF:1.59776,TV 1000 Action
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:4.45642,Дорама
+http://ott-cdn.ucom.am/s95/04.m3u8
+#EXTINF:2.28612,Tiji
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:1.51383,Viasat History
+http://ott-cdn.ucom.am/s70/04.m3u8
+#EXTINF:1.75172,Россия 24
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:3.58905,стс love
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:1.98058,Русский Экстрим
+http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTINF:2.28493,Рыжий
+http://ott-cdn.ucom.am/s57/04.m3u8
+#EXTINF:7.32292,Сарафан
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:5.90461,ПРИКЛЮЧЕНИЯ HD
+http://ott-cdn.ucom.am/s99/04.m3u8
+#EXTINF:4.26876,RT
+http://ott-cdn.ucom.am/s96/04.m3u8
+#EXTINF:8.37437,Киноман ATV ТВ
+http://ott-cdn.ucom.am/s66/01.m3u8
+#EXTINF:4.9877,Cineman
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:2.47733,Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:4.384,Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:6.27381,Premium1
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:6.24413,shanson
+http://ott-cdn.ucom.am/s43/04.m3u8
+#EXTINF:3.09149,ДОМАШНИЙ
+http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF:9.97197,SENTANA SPORT+
+http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:10.3426,SENTANA SPORT
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:6.17213,Euronews
+http://ott-cdn.ucom.am/s79/04.m3u8
+#EXTINF:3.93909,ОХОТНИК И РЫБОЛОВ HD
+http://ott-cdn.ucom.am/s62/04.m3u8
+#EXTINF:1.99288,ОХОТНИК И РЫБОЛОВ
+http://ott-cdn.ucom.am/s55/04.m3u8
+#EXTINF:8.064,53
+http://ott-cdn.ucom.am/s53/04.m3u8
+#EXTINF:3.99716,ПЯТНИЦА
+http://ott-cdn.ucom.am/s50/04.m3u8
+#EXTINF:5.97338,Akudji TV HD
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+#EXTINF:14.3964,Bambarbia TV [HD]
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:2963.43,En TV/ZOOM (Энергодар)
+http://tv.om.ua:8090/test.flv
+#EXTINF:12.0279,G TV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:6.03718,G TV (Одесса) [HD]
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:15.2323,KRATU (Херсон)
+http://212.113.32.169:8080/Apple/2/index.m3u8
+#EXTINF:6.24216,MTV Mix (Уфа) +2
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:5.45814,Metal TV
+http://autopilot.myowntv.org/content/33816/index.m3u8
+#EXTINF:4.29568,Olvia Sat (Одесса)
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:2.36843,Redcom TV (Хабаровск)
+https://tvstreamer.redcom.ru/Redcams/index.m3u8
+#EXTINF:6.91955,Renome (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:17.98,Simon TV (Харьков)
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:4.182,Sirius TV (Мукачево)
+https://open-cdn.lanet.tv/live/1019.m3u8
+#EXTINF:22.059,Sochi 24 HD
+http://live.maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
+#EXTINF:7.08267,TV Губерния (Воронеж)
+http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
+#EXTINF:18.3467,TV5 (Запорожье)
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:10.112,TV7+ (Хмельницкий)
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:2.98667,Travel Guide TV [FHD]
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:11.7637,ACB TV
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:9.19025,Canal 2 (Молдова)
+http://109.185.159.215:4011/udp/239.100.0.6:5656
+#EXTINF:14.2892,DW TV English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:3.88672,Fashion TV
+http://ott-cdn.ucom.am/s30/04.m3u8
+#EXTINF:9.99867,France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:4.94933,Fresh TV
+http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
+#EXTINF:1.00267,Gold TV (Moldova)
+http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.m3u8
+#EXTINF:1.13067,Gold TV (Moldova) [FHD]
+http://goldtv.md:1935/live/GOLDTV.stream_aac/playlist.m3u8
+#EXTINF:2.92267,HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:4.08267,HIT TV (ESP)
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:2.05396,Heavy Metal TV
+http://72.211.19.145:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:12.5417,Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:4.09333,ID Fashion (KZ)
+http://sc.id-tv.kz/IDFashion_36_37.m3u8
+#EXTINF:9.70418,ID Fashion TV HD
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
+#EXTINF:9.61547,ID Fashion TV [FHD]
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:8.68267,Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:6.57067,Kronehit TV [FHD]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:33.6693,LALE
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:7.33867,Leomax
+http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8
+#EXTINF:4.39972,Luxury TV
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:13.1974,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:7.12853,MEGOGO LIVE TV
+http://vs36.vcdn.biz/5ba67a16ea0b90b028dd8b7408bc9a30_megogo/live/hls/u_sid/0/o/71731461/u_uid/0/u_vod/1/u_device/cms_html5/type.live/chunklist-b4000000.m3u8
+#EXTINF:10.0907,MostVideo TV HD
+http://wow.stib.com.ua:1935/tv/ch1/playlist.m3u8
+#EXTINF:5.99467,MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:9.31771,Music Box Gold
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:3.87024,N4 (Молдова)
+http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:12.9893,NRJ Hits TV HD
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:1.12163,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:4.07467,Nano TV HD
+http://serv30.vintera.tv:8081/nano/nanohd/playlist.m3u8
+#EXTINF:16.0268,OTV Music
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+#EXTINF:10.0053,OTV Music
+http://212.26.146.148/hls/otv.m3u8
+#EXTINF:3.5215,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:4.75024,Prime (Молдова)
+http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:3.41333,RT Документальный
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v3a1/index.m3u8
+#EXTINF:2.02013,RT Документальный HD
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:2.77333,RT Документальный HD
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v2a1/index.m3u8
+#EXTINF:3.584,RT Документальный [FHD]
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
+#EXTINF:1.49743,RTG TV
+http://ott-cdn.ucom.am/s80/04.m3u8
+#EXTINF:2.98137,RU TV
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:6.40233,RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:2.2059,Radio 105 Network TV
+http://tv.105.net:1935/live/105Test3/playlist.m3u8
+#EXTINF:2.53867,Radio Monte Carlo TV
+http://tv.105.net:1935/live/rmc3/playlist.m3u8
+#EXTINF:1.664,Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:6.46667,SONG TV Russia (HD)
+https://songtvru.ru/lhigh/playlist.m3u8
+#EXTINF:3.62667,SONG TV Russia [FHD]
+https://songtvru.ru/hd/playlist.m3u8
+#EXTINF:2.85867,Shop 24
+http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+#EXTINF:3.31467,Shopping Live
+http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
+#EXTINF:2.98667,Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:4.10233,TV Brics [FHD]
+http://live2.mediacdn.ru/sr1/tvbrics/playlist.m3u8
+#EXTINF:9.904,TV8 Moldova
+http://live.cdn.tv8.md/TV7/video1.m3u8?token=1
+#EXTINF:4.71467,TVM Channel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:2.70933,TVM Channel
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:2.123,Top Shop TV
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:3.27657,UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4
+#EXTINF:5.30482,UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:3.28658,UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:2.97215,UA Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4
+#EXTINF:4.7833,UA Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
+#EXTINF:9.42778,UA Культура
+http://ua-culture-hls1.cosmonova.net.ua/hls/ua-culture_ua_mid/index.m3u8
+#EXTINF:3.264,UA Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+#EXTINF:5.99467,World Fashion Channel International HD
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:5.97333,World Fashion Channel International [FHD]
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:6.656,World Fashion Channel Россия
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+#EXTINF:5.97333,World Fashion Channel Россия HD
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+#EXTINF:4.45867,World Fashion Channel Россия [FHD]
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
+#EXTINF:2.47467,Xite TV HD (1)
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/playlist.m3u8
+#EXTINF:3.18113,112 Украина
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
+#EXTINF:13.7684,112 Украина
+http://app.live.112.events/hls-ua/112hd-letter/index.m3u8
+#EXTINF:4.24389,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:5.2858,112 Украина [FHD]
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:5.79333,12 Канал (Омск)
+http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:3.95067,1HD Music TV
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
+#EXTINF:4.948,1HD Music TV (SD)
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v3a1/index.m3u8
+#EXTINF:2.98,1HD Music TV [FHD]
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v2a1/index.m3u8
+#EXTINF:3.80807,24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+#EXTINF:2.41067,24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:2.72,31 канал
+http://sc.id-tv.kz/31Kanal_36_37.m3u8
+#EXTINF:3.072,34 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8?codec=mpeg4
+#EXTINF:9.00668,360 HD
+http://360tv-cdn.facecast.io/360/channel2/1.m3u8
+#EXTINF:4.78473,360 Новости HD
+http://360tv-cdn.facecast.io/360/channel1/1.m3u8
+#EXTINF:6.96599,4 канал Украина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4
+#EXTINF:11.5174,4 канал Украина
+http://cdn.vsnw.net:8081/interradio/480i.m3u8
+#EXTINF:4.88691,4 канал Украина HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:3.122,4 канал Украина [FHD]
+http://cdn.vsnw.net:8081/interradio/1080i.m3u8
+#EXTINF:4.08672,43 канал HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:1.97379,43 канал HD
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:3.78484,5 канал (Украина)
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4
+#EXTINF:3.7584,7 TV
+http://v1.proofix.ru/live-tv7/stream1/playlist.m3u8
+#EXTINF:1.984,7 канал (KZ)
+http://78.40.108.218/7channel/index.m3u8
+#EXTINF:4.7833,8 Канал
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+#EXTINF:2.30933,8 Канал (Красноярский край)
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:1.696,8 канал (Беларусь)
+http://91.215.176.238:8000/8channel
+#EXTINF:2.79467,Архыз 24 HD
+http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
+#EXTINF:2.98667,Астрахань 24 HD
+http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+#EXTINF:3.07036,Афонтово (Красноярск)
+http://xstream.afontovo.ru/afontovo_sd.m3u8
+#EXTINF:4.13867,БСТ
+http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8
+#EXTINF:9.06667,БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:4.96888,Беларусь 24
+http://stream.hoster.by/belarus24/live/playlist.m3u8
+#EXTINF:3.017,Беларусь 24
+http://212.8.233.150:8081/temp/b24/playlist.m3u8
+#EXTINF:2.408,Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4
+#EXTINF:6.11777,Бокс ТВ HD
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
+#EXTINF:3.01861,Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:3.43656,Витрина ТВ
+http://v1.proofix.ru/live-vitrina-tv/stream1-ru/playlist.m3u8
+#EXTINF:3.05067,Вкусное ТВ
+http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
+#EXTINF:2.34667,Вместе РФ HD
+http://serv25.vintera.tv:8081/test/vmesterf/playlist.m3u8
+#EXTINF:6.499,Вместе-РФ HD
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:2.41067,Волгоград 24
+http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
+#EXTINF:5.36367,Горная Страна ТВ HD
+http://hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8
+#EXTINF:4.33067,Грозный ТВ
+http://live2.mediacdn.ru/sr1/grozny/chunklist_b1498000.m3u8
+#EXTINF:2.752,Громадське ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8?codec=mpeg4
+#EXTINF:3.97061,Громадське ТВ [FHD]
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:7.848,Дагестан ТВ
+http://broadcast.rgvk.tv/hls/576p.m3u8
+#EXTINF:5.97333,Дисконт
+http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
+#EXTINF:2.67368,Домашний
+http://109.70.184.20:8080/udp/239.195.32.10:1234
+#EXTINF:3.63024,Домашний Familia (Молдова)
+http://109.185.159.215:4011/udp/239.100.0.13:5656
+#EXTINF:5.99467,Дон 24
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v3a1/index.m3u8
+#EXTINF:5.97333,Дон 24 (HD)
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v1a1/index.m3u8
+#EXTINF:4.864,Дон 24 [FHD]
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v2a1/index.m3u8
+#EXTINF:5.40267,Евпатория ТВ
+http://evpatoriatv.cdnvideo.ru/li/pl.m3u8
+#EXTINF:3.12,Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:3.34368,Еко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4
+#EXTINF:2.368,Ел Арна
+http://sc.id-tv.kz/ElArna_36_37.m3u8
+#EXTINF:3.27401,Еспресо TV
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
+#EXTINF:1.88353,Загородный
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:6.528,Звезда
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
+#EXTINF:4.77867,Звезда
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v2a1/index.m3u8
+#EXTINF:2.88672,Звезда
+http://109.70.184.20:8080/udp/239.195.32.17:1234
+#EXTINF:10.6027,Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:7.72267,Известия ТВ [FHD]
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:15.8592,Ингушетия ТВ
+http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
+#EXTINF:5.59679,Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:4.74294,К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:13.8221,КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4
+#EXTINF:2.47467,КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:3.98933,Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/tracks-v1a1/index.m3u8
+#EXTINF:3.04,Калейдоскоп ТВ
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:2.51948,Карусель
+http://109.70.184.20:8080/udp/239.195.32.20:1234
+#EXTINF:2.80961,Киев ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4
+#EXTINF:3.32046,Киноменю HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:2.816,Конный Мир
+http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/tracks-v1a1/index.m3u8
+#EXTINF:9.08467,Красная линия ТВ
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:3.80809,Крик ТВ
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:7.32129,Крым 1 [FHD]
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:3.94933,Крым 24 [FHD]
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:1.79194,Кузбасс 24
+http://serv30.vintera.tv:8081/sibirj/kuzbass24/playlist.m3u8
+#EXTINF:3.98933,Курай ТВ
+http://bsttv.bonus-tv.ru:80/cdn/kurai/tracks-v1a1/index.m3u8
+#EXTINF:4.20267,Любимое.TV
+http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
+#EXTINF:2.15467,Любимый HD/ТНТ4 (KG)
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+#EXTINF:2.49067,Магия Кухни ТВ
+http://sc.id-tv.kz/MagiyaKuhni_36_37.m3u8
+#EXTINF:1.41642,Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+#EXTINF:4.29569,Мир (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:2.688,Мир +3 (KZ)
+http://sc.id-tv.kz/Mir_36_37.m3u8
+#EXTINF:2.85867,Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:2.784,Мир 24
+http://sc.id-tv.kz/Mir24_36_37.m3u8
+#EXTINF:2.83282,Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:2.91971,Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:3.30667,Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:3.01967,Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:4.27248,Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:1.36618,Муз ТВ
+http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:2.80779,Муз ТВ
+http://109.70.184.20:8080/udp/239.195.32.54:1234
+#EXTINF:4.58667,Мультимания ТВ (LV)
+http://82.193.71.93/MultimaniaLV/video.m3u8
+#EXTINF:11.819,НАШ ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
+#EXTINF:2.54769,НСТ
+http://ott-cdn.ucom.am/s87/04.m3u8
+#EXTINF:3.12031,НТВ
+http://109.70.184.20:8080/udp/239.195.32.7:1234
+#EXTINF:4.03828,НТВ Молдова
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:3.34291,НТН
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:1.98345,Наука
+http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:3.51443,Наше TV
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:3.088,Наше ТВ Витебск [BY]
+http://95.46.208.8:26259/nashe
+#EXTINF:6.26667,Новое Телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:4.15638,Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:3.49867,ОНТ.BY
+http://stream.ont.by:1935/ont/live576p/playlist.m3u8
+#EXTINF:2.48479,ОТР
+http://109.70.184.20:8080/udp/239.195.32.8:1234
+#EXTINF:12.1375,ОТР [FHD]
+http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
+#EXTINF:3.392,Осетия-Ирыстон
+http://now03.eaglecdn.com/stream_transcoded_720/irystontv_irystontvstream1_hi/index.m3u8
+#EXTINF:3.05067,Открытый [FHD]
+http://hls.opentv.online/7200k/open_7200k.m3u8
+#EXTINF:2.70533,Первый Деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:4.70838,Первый Деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:1.296,Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:3.24,Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300
+#EXTINF:1.92,Первый Музыкальный BY [UHD]
+http://rtmp.one.by:1400
+#EXTINF:1.088,Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:1.624,Первый Музыкальный RU BY [FHD]
+http://rtmp.one.by:2300
+#EXTINF:8.06017,Первый канал
+http://109.70.184.20:8080/udp/239.195.32.1:1234
+#EXTINF:1.72,Первый канал "Евразия"
+http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
+#EXTINF:6.98133,Пингвин Лоло (LT)
+http://82.193.71.93/LoLoLT/index.m3u8
+#EXTINF:6.54933,Пингвин Лоло (LV)
+http://82.193.71.93/LoLoLv/index.m3u8
+#EXTINF:7.712,Пингвин Лоло (Эстония)
+http://82.193.71.93/LoLoEE/index.m3u8
+#EXTINF:4.81855,Правда ТУТ Киев
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:4.97067,Продвижение
+http://cdn-01.bonus-tv.ru:8080/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:2.116,Просвещение
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:3.06503,Прямой
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+#EXTINF:3.9706,Прямой HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:2.19891,Пятница
+http://109.70.184.20:8080/udp/239.195.32.32:1234
+#EXTINF:2.84384,Пятый канал
+http://109.70.184.20:8080/udp/239.195.32.14:1234
+#EXTINF:3.214,РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:2.41487,РБК ТВ
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:5.31467,РБК ТВ
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:1.9915,РБК ТВ
+http://ott-cdn.ucom.am/s36/04.m3u8
+#EXTINF:10.0049,РБК ТВ (Екатеринбург)
+http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8
+#EXTINF:8.632,Рада ТВ
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:2.77333,Рада ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
+#EXTINF:2.64533,Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:2.9235,Рен ТВ
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:2.67296,Рен ТВ
+http://109.70.184.20:8080/udp/239.195.32.18:1234
+#EXTINF:10.356,Рика ТВ (KZ)
+http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:3.43655,Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:2.60014,Россия 1
+http://109.70.184.20:8080/udp/239.195.32.2:1234
+#EXTINF:3.72,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:5.35467,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
+#EXTINF:4.01067,Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:3.88,Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:2.6696,Россия 24
+http://109.70.184.20:8080/udp/239.195.32.4:1234
+#EXTINF:4.50267,Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:4.6,Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:1.37867,Россия К
+http://ott-cdn.ucom.am/s16/04.m3u8
+#EXTINF:3.46267,Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:3.99383,Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:2.112,Русский Экстрим Ретро
+http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
+#EXTINF:6.25067,СТВ (Беларусь)
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:0.464378,СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:3.73841,СТРК HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:2.368,СТС International
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:3.11467,Санкт-Петербург
+http://stream2.topspb.tv:1935/live/smil:live.smil/chunklist_b1596000.m3u8
+#EXTINF:16.96,Свое ТВ (Ставрополь)
+http://serv24.vintera.tv:8081/svoetv/stvsd/playlist.m3u8
+#EXTINF:2.66667,Сказки Зайки
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:1.64861,Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:1.272,Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8?codec=mpeg4
+#EXTINF:2.06658,Сочи 24 HD
+http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+#EXTINF:5.94098,Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:8.98612,Спас
+http://live-spastv.cdnvideo.ru/spastv-publish/spastv.sdp/playlist.m3u8
+#EXTINF:2.61631,ТВ3
+http://109.70.184.20:8080/udp/239.195.32.15:1234
+#EXTINF:5.24771,ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+#EXTINF:3.81867,ТНВ Планета
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:2.5275,ТНТ
+http://109.70.184.20:8080/udp/239.195.32.11:1234
+#EXTINF:3.456,ТНТ Music
+http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+#EXTINF:3.52,Твое ТВ (KZ)
+http://sc.id-tv.kz/TvoeTV_36_37.m3u8
+#EXTINF:1.75779,Телекафе
+http://ott-cdn.ucom.am/s56/04.m3u8
+#EXTINF:1.96823,Техно 24
+http://ott-cdn.ucom.am/s68/04.m3u8
+#EXTINF:3.08,Точка ТВ
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:4.69333,Точка ТВ
+http://cdn-01.bonus-tv.ru:8080/tochkatv_edge/tracks-v1a1/index.m3u8
+#EXTINF:2.85867,Тюменское Время
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:2.26667,Хабар
+http://sc.id-tv.kz/Habar_36_37.m3u8
+#EXTINF:4.12734,Хабар 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:2.26933,Халык Арна
+http://sc.id-tv.kz/HalykArna_36_37.m3u8
+#EXTINF:10.5651,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:6.94277,Ювелирочка ТВ
+http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka/playlist.m3u8
+#EXTINF:6.48533,Юрган ТВ
+http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v3a1/index.m3u8
+#EXTINF:5.504,Юрган ТВ HD
+http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v1a1/index.m3u8
+#EXTINF:3.62667,Юрган ТВ [FHD]
+http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
+#EXTINF:2.29878,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:3.422,21 канал Ужгород (UA)
+rtmp://213.174.8.15:1935/live/danio
+#EXTINF:3.21101,33 канал (Хмельницкий)
+http://77.120.29.10/hls/playlist.m3u8
+#EXTINF:2.247,360 (Нижневартовск)
+http://media.ugmg.ru/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:3.20186,360 Ярославль
+http://gtk.tv/hls/gtr.m3u8
+#EXTINF:1.70667,47 канал
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:4.83,555 Hunt Fishing TV
+rtmp://193.169.178.29/podsekaiTV/chanelSD
+#EXTINF:4.17463,7 канал HD (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:3.93833,86 канал (Сургут) +2
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:7.08267,TV Губерния (Воронеж)
+http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
+#EXTINF:10.112,TV7+ (Хмельницкий)
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:2.169,UA Буковина
+http://video.intelekt.cv.ua:8066/live/index.m3u8
+#EXTINF:5.779,UA Винница
+http://cdn1.suspilne.media/hls/reg/vintera.m3u8
+#EXTINF:2.787,UA Волынь
+http://cdn1.suspilne.media/hls/reg/nova-volyn.m3u8
+#EXTINF:4.45867,UA Житомир
+http://cdn1.suspilne.media/hls/reg/zhytomyr.m3u8
+#EXTINF:2.26633,UA Запорожье
+http://cdn1.suspilne.media/hls/reg/zaporizhia.m3u8
+#EXTINF:3.227,UA Карпаты
+http://cdn1.suspilne.media/hls/reg/karpaty.m3u8
+#EXTINF:7.49843,UA Одесса
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr/odtrkod/odtrkod-sub/playlist.m3u8
+#EXTINF:6.17067,UA Полтава
+http://cdn1.suspilne.media/hls/reg/ltava.m3u8
+#EXTINF:3.41333,UA Ровно
+http://cdn1.suspilne.media/hls/reg/rtb.m3u8
+#EXTINF:1.678,UA Сумы
+rtmp://94.179.129.54:8134/live/my_livestream
+#EXTINF:6.42133,UA Харьков
+http://stream.otb.com.ua/hls/otb1/index.m3u8
+#EXTINF:4.096,UA Чернигов
+http://cdn1.suspilne.media/hls/reg/syver.m3u8
+#EXTINF:1.64267,Univer TV (Казань)
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:1.45067,Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:8.71843,Z TV (Запорожье)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:2.901,Zab TV (Чита) +6
+rtmp://188.168.81.103/live/zabtv
+#EXTINF:5.96752,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+#EXTINF:4.01706,А1 (Одесса) [HD]
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+#EXTINF:5.22933,АТВ (Ставрополь)
+http://hls.atvmedia.ru/atv800.m3u8
+#EXTINF:3.136,Аверс ТВ (Луцк)
+http://avers.pp.ua/hls/efir.m3u8
+#EXTINF:4.74238,Авторадио [UA] (Веб-камера)
+http://rtmp.radiogroup.com.ua:8080/live/avto/index.m3u8
+#EXTINF:3.19146,Аист ТВ (Иркутск) +5
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:5.75854,Академия (Одесса)
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
+#EXTINF:1.871,Алекс TV (Запорожье)
+rtmp://94.240.131.3/live/livestream3
+#EXTINF:5.227,Альтес ТВ (Чита) +6
+rtmp://188.168.81.103/live/Altes
+#EXTINF:2.243,Антенна (Черкассы)
+http://193.108.250.210/hls/antenna.m3u8
+#EXTINF:4.45823,Архат ТВ HD (Украина)
+http://arhat.tv/public/720p/index.m3u8
+#EXTINF:1.57867,Астрахань 24 HD
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
+#EXTINF:9.408,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:9.408,Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:2.66667,Астрахань.Ru Sport [FHD]
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:4.20267,Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
+#EXTINF:1.96267,Астрахань.Ru TV HD
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
+#EXTINF:1.49333,Астрахань.Ru TV [FHD]
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+#EXTINF:3.22757,Барс ТВ (Иваново)
+http://iptv.barstv.ru/hls/stream1.m3u8
+#EXTINF:4.02098,Башкортостан 24 HD +2
+http://live.gtrk.tv/720/b24-720.m3u8
+#EXTINF:7.25333,Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:2.133,ВТВ Плюс (Херсон)
+rtmp://live.vtvplus.com.ua/live/online
+#EXTINF:2.544,Вектор ТВ (BY)
+http://185.70.13.5:1234/live
+#EXTINF:6.1085,Вестник Надыма +2
+http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
+#EXTINF:6.73379,Волгоград 24
+http://hls.volgogradtrv.cdnvideo.ru/volgogradtrv/volgogradtrv.sdp/playlist.m3u8
+#EXTINF:3.968,Волжский Плюс
+http://flussonic.powernet.com.ru:8080/telekanal_internet/tracks-v2a1/index.m3u8
+#EXTINF:3.968,Волжский Плюс [HD]
+http://flussonic.powernet.com.ru:8080/telekanal_internet/tracks-v1a1/index.m3u8
+#EXTINF:7.96734,Вся Уфа +2
+https://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
+#EXTINF:2.47369,Глас (Одесса)
+http://85.238.112.69:8811/hlss/time.m3u8
+#EXTINF:2.491,Глас RU
+rtmp://gigaz.wi.com.ua/hallDemo/glassru
+#EXTINF:3.042,Глас UA
+rtmp://gigaz.wi.com.ua/hallDemo/glassua
+#EXTINF:6.47837,Губерния 33 (Владимир)
+http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+#EXTINF:9.38086,Губерния Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:3.78367,Донеччина TV (Краматорск)
+http://stream.dn.ua/hls/stream.m3u8
+#EXTINF:5.27092,Думская TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:4.22498,Заречный ТВ
+http://109.201.158.87:1935/trkz/trkz.sdp/playlist.m3u8
+#EXTINF:5.27093,Здоровье (Одесса)
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:2.2059,ИКС ТВ (Крым) [FHD]
+http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8
+#EXTINF:2.16816,ИТВ (Крым)
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:3.94667,Импульс (Новый Уренгой) +2
+https://s30160.cdn.ngenix.net/live/impulse-live/playlist.m3u8
+#EXTINF:1.96,Июнь ТВ HD (Междуреченск) +4
+http://hls.m-ten.ru:8080/hls/21/live.m3u8
+#EXTINF:4.78187,КТМ (Александрия)
+http://109.196.177.12:55555
+#EXTINF:3.71573,Кварц ТВ (Подольск)
+http://109.94.1.3:8080/Infokanal/video.m3u8
+#EXTINF:8.12699,Крик ТВ (Екатеринбург) +2
+http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
+#EXTINF:2.79467,ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:2.21867,ЛДПР ТВ HD
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:6.08363,ЛитКлуб ТВ - Проза
+http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b6.m3u8
+#EXTINF:3.65092,ЛитКлуб ТВ - Слово
+http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f43.m3u8
+#EXTINF:5.252,ЛитКлуб ТВ - Стихи
+http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78898.m3u8
+#EXTINF:3.75467,М-Студио ТВ (Мукачево)
+http://213.174.23.59:8080/MS
+#EXTINF:4.57433,Медиа Информ (Одесса)
+http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
+#EXTINF:1.38667,Между.Net ТВ HD (Междуреченск) +4
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:3.648,Министерство Идей (Екатеринбург)
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:2.35167,Московский Образовательный ТВ HD
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:5.01138,МузСоюз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:3.2508,ННТВ HD (Нижний Новгород)
+http://live-nntv.cdnvideo.ru/nntv/nntv.sdp/playlist.m3u8
+#EXTINF:4.24902,НТА (Львов)
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:3.86789,НТА (Львов) (HD)
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:3.58353,НТА (Львов) [FHD]
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:3.29723,НТК ТВ Украина
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:2.79467,НТМ HD (Мордовия)
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
+#EXTINF:7.65388,НТС (Севастополь)
+http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
+#EXTINF:16.064,Надия/Новый канал (Первомайский)
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:1.35984,Наш Дом (Пенза)
+http://85.234.33.60/stream/c11.m3u8
+#EXTINF:3.71519,Наше Радио [UA] (Веб-камера)
+http://rtmp.radiogroup.com.ua:8080/live/nr/index.m3u8
+#EXTINF:4.77867,Ника TV (Калуга)
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:13.5314,Новое Радио [BY] (Веб-камера)
+http://stream.hoster.by/novoeradio/novoeradio/playlist.m3u8
+#EXTINF:4.32267,Новое Радио ТВ [HD]
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
+#EXTINF:1.992,ОТВ (Екатеринбург) +2
+http://85.12.197.39:8080/hls/stream1.m3u8
+#EXTINF:4.608,ОТВ HD (Челябинск) +2
+rtmp://broadcast.1obl.ru:1935/dvr/online.sdp
+#EXTINF:2.95791,Общественное Независимое ТВ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:4.36534,Одеса
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
+#EXTINF:2.47907,Одинцово ТВ
+http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:6.31467,Первый Городской (Калининград)
+http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/klg.sdp/playlist.m3u8
+#EXTINF:6.83867,Первый Городской (Киров)
+http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/1kirov.sdp/playlist.m3u8
+#EXTINF:3.52944,Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:8.33596,Первый Городской (Нижний Новгород)
+http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/nn.sdp/playlist.m3u8
+#EXTINF:2.46929,Первый Городской (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:2.54367,Первый Западный (Львов)
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:1.55082e+09,Про Жизнь (Прокопьевск) +4
+http://27trk.ru:8080/test.webm
+#EXTINF:15.5109,РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:3.9474,Радио 1 [RU] (Веб-камера)
+http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
+#EXTINF:1.42533,Радио 10 [Черновцы] (Веб-камера)
+http://langate.tv/acc/tracks-v1/index.m3u8
+#EXTINF:12.1813,Радио DFM [RU] (Веб-камера)
+http://dfmvideo.gcdn.co/streams/1410_651/720n/index.m3u8
+#EXTINF:7.7922,Радио KISS FM [UA] (Веб-камера)
+http://tavr.web-event.com.ua/kiss/smil:kiss.smil/chunklist_b2628000_t64NzIwcA==.m3u8
+#EXTINF:5.99467,Радио NRJ [UA] (Веб-камера)
+http://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
+#EXTINF:7.15175,Радио Вести FM [RU] (Веб-камера)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist_b1600000.m3u8
+#EXTINF:7.96445,Радио Говорит Москва [RU] (Веб-камера)
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+#EXTINF:9.85833,Радио Голос Столицы [UA] (Веб-камера)
+http://rtmp.radiogroup.com.ua:8080/live/gs/index.m3u8
+#EXTINF:6.47516,Радио Джем FM [UA] (Веб-камера)
+http://rtmp.radiogroup.com.ua:8080/live/jam/index.m3u8
+#EXTINF:8.10667,Радио Европа Плюс [RU] (Веб-камера)
+http://live-emg.cdnvideo.ru/emg/smil:emg.smil/chunklist_b1660000.m3u8
+#EXTINF:7.077,Радио Люкс FM [UA] (Веб-камера)
+http://streamvideol1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:20.7646,Радио Макс FM [Сочи] (Веб-камера)
+http://live.maksmedia.cdnvideo.ru/maksmedia/maksfm2.sdp/playlist.m3u8
+#EXTINF:5.38702,Радио Маяк [RU] (Веб-камера)
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
+#EXTINF:8.73746,Радио Пятница [UA] (Веб-камера)
+http://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8
+#EXTINF:3.72791,Радио Ретро FM [UA] (Веб-камера)
+http://rtmp.radiogroup.com.ua:8080/live/retro/index.m3u8
+#EXTINF:10.4258,Радио Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:4.18,Радио Тиса FM [Ужгород] (Веб-камера)
+rtmp://rtmp.turmedia.tv/live/tisafm
+#EXTINF:7.39117,Радио Хит ТВ (Орск) [HD] +2
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:2.47467,Радио Центр FM [BY] (Веб-камера)
+http://stream.ont.by:1935/ont/ont/playlist.m3u8
+#EXTINF:4.37222,Радио Шансон ТВ [HD]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:7.15547,Релакс TV
+http://live.planeta-online.tv:1935/public/channel_3/playlist.m3u8
+#EXTINF:11.9583,Репортер (Одесса)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:13.1463,Россия 1 (Вайнах)
+http://hls-mycdn01792630458.cdnvideo.ru/mycdn01792630458/chechnyatoday/playlist.m3u8
+#EXTINF:10.7947,Россия 1 (Калининград)
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+#EXTINF:10.5723,Россия 1 (Калуга)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b1200000.m3u8
+#EXTINF:1.788,Россия 1 (Липецк)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
+#EXTINF:9.78967,Россия 1 (Пенза)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:penza_r1.smil/chunklist_b1200000.m3u8
+#EXTINF:6.92203,Россия 1 (Сочи)
+http://sochi.camera:8080/cam_255/index.m3u8?token=null
+#EXTINF:10.7511,Россия 1 (Чита) +6
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:9.965,Россия 1 (Чувашия)
+http://www.chgtrk.ru/pl/stream/hls/R1_360p/index.m3u8
+#EXTINF:8.68492,Россия 24 (Калуга)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r24.smil/chunklist_b1200000.m3u8
+#EXTINF:9.00267,Россия 24 (Липецк)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:r24_lipetsk.smil/chunklist_b1600000.m3u8
+#EXTINF:8.29867,Россия 24 (Пенза)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:penza_r24.smil/chunklist_b1000000.m3u8
+#EXTINF:7.34859,Россия 24 (Сочи)
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
+#EXTINF:6.8308,Россия 24 (Чита)
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+#EXTINF:4.33067,Россия 24 (Южный Урал)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:chel_r24.smil/chunklist_b1200000.m3u8
+#EXTINF:3.44,Русский Север
+http://rusevertv.ru/480/rs_crf28_.m3u8
+#EXTINF:7.64,Русский Север ТВ (Вологда)
+http://rusevertv.ru/576/rs_crf28_.m3u8
+#EXTINF:5.25567,С1 (Сургут) +2
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:4.09367,СГДФ 24 (Екатеринбург)
+http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
+#EXTINF:2.27556,СК1 (Житомир)
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt504p/playlist.m3u8
+#EXTINF:17.9506,СК1 HD
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:3.66876,Самара ГИС
+http://178.132.6.97/samaragis1/index.m3u8
+#EXTINF:6.10684,Саратов 24
+http://stream.saratov24.tv:8081/web/c24/playlist.m3u8
+#EXTINF:10.8587,Сварожичи ТВ UA
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:3.37067,Север ТВ (Нарьян-Мар)
+http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:18.5608,Синергия ТВ
+http://live-synergytv.cdnvideo.ru/synergytv/synergytv.sdp/playlist.m3u8
+#EXTINF:1.53769,Сити (Брест) BY
+http://217.21.34.252:90/city
+#EXTINF:10.7987,Скиф (Беларусь)
+http://178.172.150.248:2051/skifvit/index.m3u8
+#EXTINF:3.432,Славянский Мир ТВ [FHD]
+http://n1.slavmir.tv:1935/live/Cinegy.stream/playlist.m3u8
+#EXTINF:5.70467,Солнечногорское ТВ
+http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
+#EXTINF:4.418,ТВ 21+ (Мурманск)
+http://tv21.inmurmansk.ru/full_stream.flv
+#EXTINF:3.08713,ТВ FM (Крым)
+http://193.238.110.158:8080/hq.m3u8
+#EXTINF:4.07467,ТВ Тверь/Продвижение
+http://109.194.79.214:1935/online/smil:ch2.smil/chunklist_b1000000.m3u8
+#EXTINF:1.31778,ТВ-Дом (Одесса)
+http://46.149.48.21:1234
+#EXTINF:4.04898,ТВА Черновцы
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:8.33596,ТВР 24 (Сергиев Посад)
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+#EXTINF:11.9583,ТИС ТВ (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:3.97062,ТК Центр Красноярск HD +4
+http://www.tck.tv/hls_hd/hd.m3u8
+#EXTINF:9.57867,ТКР (Рязань)
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:4.144,ТРК 555 (Алушта)
+http://trk555.tv:8888/live
+#EXTINF:3.34721,ТРК АТВ
+http://ahtarirtv.ru:8081/atv/tv/playlist.m3u8
+#EXTINF:17.949,ТРК Евразия (Орск) +2
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:11.9583,ТРК Круг (Одесса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:5.4282,CW24
+http://cdn.stream360.pl/CW24/cw24live/playlist.m3u8
+#EXTINF:13.6096,TVT Slaska
+http://176.107.129.219/media/tvt/index.m3u8
+#EXTINF:13.4211,TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:4.728,TV Torun HD
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:9.98397,TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:4.85298,Radio Czworka
+http://stream14.polskieradio.pl:1935/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:3.88267,Polskie Radio 24
+http://stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8
+#EXTINF:2.42584,Hope Channel Polska
+http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
+#EXTINF:11.5995,4FUN TV
+http://hls.redefine.pl/894619ED/1579/0/hls576/masterlist.m3u8
+#EXTINF:11.2213,4FUN TV GOLD
+http://hls.redefine.pl/25670764/1580/0/hls576/576p/list.m3u8
+#EXTINF:7.21067,DISCO POLO MUSIC
+http://hls.redefine.pl/E33F843E/10260/0/hls576/576p/list.m3u8
+#EXTINF:13.6423,4Fun TV+
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:1.78564,Mango TV
+http://stream.mango.pl:1935/mango/_definst_/live/playlist.m3u8
+#EXTINF:5.78714,Sfera TV
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_b1128000_slpl.m3u8
+#EXTINF:5.67467,Wielkopolska TV
+http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
+#EXTINF:6.17651,Акуджи 1
+https://stream1.cybergame.tv/live/akudjio.m3u8
+#EXTINF:1.26557,Акуджи 2
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:1.89024,Amedia Hit
+http://109.248.236.41:4433/udp/238.1.1.96:1234
+#EXTINF:3.304,Amedia Premium
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+#EXTINF:4.70357,Комедийное HD
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:3.6191, Bollywood HD
+http://77.245.98.22:8000/play/403/index.m3u8
+#EXTINF:3.336,Шокируюшее HD
+http://1ttvauth.top/w/20321/1/auto/VXdCTGZNaG10bGl6SGpyQnpWRzlRS3RYWHo1Q2dCRmsvZHcxblRBK25teFdDZUxvNVdUNzd1eHlSblk1UzVUcWlLZHQrb25MM3BXcE43VU9pRC8rSzlCY1dvQTFkVDFhMndPc1piRWlrQnF4SFdXQjZKdz0/playlist.m3u8
+#EXTINF:3.66933,STR TV HD
+http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:11.5995,4FUN TV
+http://hls.redefine.pl/894619ED/1579/0/hls576/masterlist.m3u8
+#EXTINF:11.2213,4FUN TV GOLD
+http://hls.redefine.pl/25670764/1580/0/hls576/576p/list.m3u8
+#EXTINF:7.21067,DISCO POLO MUSIC
+http://hls.redefine.pl/E33F843E/10260/0/hls576/576p/list.m3u8
+#EXTINF:13.6423,4Fun TV+
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:25.7493,М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:34.0063,O-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:4.65067,12 канал (Омск) +3
+http://live-gtrkomsk.cdnvideo.ru/gtrkomsk/gtrkomsk.sdp/playlist.m3u8
+#EXTINF:7.75,1Music Channel Hungary
+http://1music.hu/1music.m3u8
+#EXTINF:2.08333,Hit Music Channel (Hungary)
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:8.35467,Lale
+http://stream.atr.ua/lale/live/index.m3u8
+#EXTINF:3.05067,NRJ TV
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+#EXTINF:2.08,Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:2.37696,Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:3.44,Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:6.69531,Publika TV HD (Moldova)
+http://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:3.80733,RTL 102.5 TV (IT)
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+#EXTINF:4.17274,Radio 105 Network TV (IT)
+http://tv.105.net/live/105Test3/playlist.m3u8
+#EXTINF:3.25079,Radio Bruno TV (IT)
+http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:1.57867,Radio Monte Carlo TV (IT)
+http://tv.105.net/live/rmc3/playlist.m3u8
+#EXTINF:3.2508,Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:4.93127,Russian Music Box
+http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/playlist.m3u8
+#EXTINF:3.49233,TV Brics [FHD]
+http://live2.mediacdn.ru/sr1/tvbrics/chunklist.m3u8
+#EXTINF:4.3339,UA Культура
+http://ua-culture-hls2.cosmonova.net.ua/hls/ua-culture_ua_mid/index.m3u8
+#EXTINF:1.96267,Xite TV HD
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+#EXTINF:1.32267,Архыз 24 HD (Черкесск)
+http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:1.96267,Астрахань 24 HD
+http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
+#EXTINF:3.51767,Вместе РФ HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:2.322,Еко ТВ (Украина)
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:1.9737,Макси ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:6.50281,МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:5.47532,Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:5.16267,Надия
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+#EXTINF:9.98458,Настоящее Время HD
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8
+#EXTINF:2.304,Продвижение
+http://cdn-10.bonus-tv.ru:80/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:2.79091,Пятница!
+http://176.101.224.21:8080/udp/239.195.32.32:1234
+#EXTINF:3.80385,Пятый канал
+http://176.101.224.21:8080/udp/239.195.32.14:1234
+#EXTINF:1.54123,Татарстан 24
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+#EXTINF:7.01243,Трофей HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_b2000000.m3u8?id=2&session=1
+#EXTINF:23.2123,Удмуртия ТВ (Ижевск) +1
+http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+#EXTINF:10.6318,Хабар 24 (KZ) +3
+http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:4.33067,ЧГТРК Грозный
+http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
+#EXTINF:2.98667,Jasmin TV (18+)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:2.98667,Jasmin TV HD (18+)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:3.88267,VISIT-X TV (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:6.99447,Еда Премиум
+http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+#EXTINF:7.29462,Кинозал Зарубежная киноклассика
+http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
+#EXTINF:18.06,Кинозал Советская киноклассика
+http://streams.tv.mts.by/soviet_classic/1/index.m3u8
+#EXTINF:6.44267,Кинозал Индийская киноклассика
+http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
+#EXTINF:8.25729,Кинозал Классика Голливуда
+http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
+#EXTINF:2.304,Продвижение
+http://cdn-10.bonus-tv.ru:80/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:6.95696,Рен ТВ
+http://176.101.224.21:8080/udp/239.195.32.18:1234
+#EXTINF:4.38831,ТВ3
+http://176.101.224.21:8080/udp/239.195.32.15:1234
+#EXTINF:3.80385,Пятый канал
+http://176.101.224.21:8080/udp/239.195.32.14:1234
+#EXTINF:5.00031,НТВ
+http://176.101.224.21:8080/udp/239.195.32.7:1234
+#EXTINF:3.09149,Домашний
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:3.99368,Домашний
+http://176.101.224.21:8080/udp/239.195.32.10:1234
+#EXTINF:3.70886,ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:2.54751,ТНТ4
+http://ott-cdn.ucom.am/s100/index.m3u8
+#EXTINF:1.67941,TВЦ
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:5.15679,СТС
+http://176.101.224.21:8080/udp/239.195.32.8:1234
+#EXTINF:4.26719,ОТР
+http://176.101.224.21:8080/udp/239.195.32.19:1234
+#EXTINF:2.47072,Звезда
+http://176.101.224.21:8080/udp/239.195.32.17:1234
+#EXTINF:3.19723,ЦТВ
+http://ott-cdn.ucom.am/s20/index.m3u8
+#EXTINF:5.96886,RTG
+http://ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF:3.57603,История
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:2.91146,Наука
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:2.4909,Техно 24
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:2.79091,Пятница!
+http://176.101.224.21:8080/udp/239.195.32.32:1234
+#EXTINF:2.93109,TV1000 Action
+http://ott-cdn.ucom.am/s91/index.m3u8
+#EXTINF:1.96493,Рыжий
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:2.66082,Мульт
+http://ott-cdn.ucom.am/s58/index.m3u8
+#EXTINF:3.75948,Карусель
+http://176.101.224.21:8080/udp/239.195.32.20:1234
+#EXTINF:2.87279,Tiji
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:2.82709,охотник и рыболов
+http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:9.01067,HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:3.264,UA Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+#EXTINF:3.1096,Мама
+http://ott-cdn.ucom.am/s77/04.m3u8
+#EXTINF:5.94082,Мульт
+http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:2.304,Продвижение
+http://cdn-10.bonus-tv.ru:80/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:6.95696,Рен ТВ
+http://176.101.224.21:8080/udp/239.195.32.18:1234
+#EXTINF:4.38831,ТВ3
+http://176.101.224.21:8080/udp/239.195.32.15:1234
+#EXTINF:3.80385,Пятый канал
+http://176.101.224.21:8080/udp/239.195.32.14:1234
+#EXTINF:5.00031,НТВ
+http://176.101.224.21:8080/udp/239.195.32.7:1234
+#EXTINF:3.09149,Домашний
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:3.99368,Домашний
+http://176.101.224.21:8080/udp/239.195.32.10:1234
+#EXTINF:3.70886,ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:1.67941,TВЦ
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:5.15679,СТС
+http://176.101.224.21:8080/udp/239.195.32.8:1234
+#EXTINF:4.26719,ОТР
+http://176.101.224.21:8080/udp/239.195.32.19:1234
+#EXTINF:2.47072,Звезда
+http://176.101.224.21:8080/udp/239.195.32.17:1234
+#EXTINF:3.19723,ЦТВ
+http://ott-cdn.ucom.am/s20/index.m3u8
+#EXTINF:5.96886,RTG
+http://ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF:3.57603,История
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:2.91146,Наука
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:2.4909,Техно 24
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:2.79091,Пятница!
+http://176.101.224.21:8080/udp/239.195.32.32:1234
+#EXTINF:2.93109,TV1000 Action
+http://ott-cdn.ucom.am/s91/index.m3u8
+#EXTINF:1.96493,Рыжий
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:2.66082,Мульт
+http://ott-cdn.ucom.am/s58/index.m3u8
+#EXTINF:3.75948,Карусель
+http://176.101.224.21:8080/udp/239.195.32.20:1234
+#EXTINF:2.87279,Tiji
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:2.82709,охотник и рыболов
+http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:2.45333,Тивиком (Улан-Удэ) FHD +5
+http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
+#EXTINF:7.56,Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:5.16267,Югра ТВ (Ханты-Мансийск) +2
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
+#EXTINF:3.80657,H1_HD
+http://ott-cdn.ucom.am/hdtest/index.m3u8
+#EXTINF:2.01772,H1
+http://ott-cdn.ucom.am/s1/index.m3u8
+#EXTINF:3.72355,H2
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:3.12012,Shant
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:1.96926,Armenia TV
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:1.79562,Kentron
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:2.53846,Ararat
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:3.28757,Yerkir Media
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:1.47723,ATV
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:3.73524,AR
+http://ott-cdn.ucom.am/s9/index.m3u8
+#EXTINF:2.41394,21TV
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:5.81237,ArmNews
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:2.57263,Shoxakat
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:2.13583,Первый канал
+http://ott-cdn.ucom.am/s14/index.m3u8
+#EXTINF:3.30652,Планета РТР
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:5.63868,Россия К
+http://ott-cdn.ucom.am/s16/index.m3u8
+#EXTINF:5.53453,НТВ
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:2.40933,Food Network
+http://ott-cdn.ucom.am/s18/index.m3u8
+#EXTINF:3.70886,ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:3.19723,ЦТВ
+http://ott-cdn.ucom.am/s20/index.m3u8
+#EXTINF:5.80508,Россия 24
+http://ott-cdn.ucom.am/s21/index.m3u8
+#EXTINF:2.8187,Hay kino
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:3.99187,Al Jazeera English
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:3.53118,BBC
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:4.59367,France 24
+http://ott-cdn.ucom.am/s25/index.m3u8
+#EXTINF:4.71818,Kukhnya TV
+http://ott-cdn.ucom.am/s28/index.m3u8
+#EXTINF:4.72512,Индийское кино
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:3.57739,Fashion TV
+http://ott-cdn.ucom.am/s30/index.m3u8
+#EXTINF:11.0435,Загородный
+http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:5.4429,Armenia Comedy
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:2.24903,A2
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:2.31242,Bridge TV
+http://ott-cdn.ucom.am/s34/index.m3u8
+#EXTINF:1.74631,Mezzo
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:3.99683,РБК
+http://ott-cdn.ucom.am/s36/index.m3u8
+#EXTINF:3.97652,English Club
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:4.84292,Сарафан
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:3.57603,История
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:3.12956,Телеканал Футбол
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:5.11259,Jan TV
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:5.67347,Шансон ТВ
+http://ott-cdn.ucom.am/s43/index.m3u8
+#EXTINF:2.82836,Musicbox RU
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:2.82314,Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:2.68191,Russian Extreme
+http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:1.72533,Filmzone ATV
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:5.55996,MCM TOP
+http://ott-cdn.ucom.am/s49/index.m3u8
+#EXTINF:3.12516,Rustavi 2
+http://ott-cdn.ucom.am/s50/index.m3u8
+#EXTINF:3.47791,Авто плюс
+http://ott-cdn.ucom.am/s51/index.m3u8
+#EXTINF:3.71438,Русский Бестселлер
+http://ott-cdn.ucom.am/s52/index.m3u8
+#EXTINF:3.296,Tava ATV
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:1.98221,Охотник и Рыболов
+http://ott-cdn.ucom.am/s55/index.m3u8
+#EXTINF:2.84312,Телекафе
+http://ott-cdn.ucom.am/s56/index.m3u8
+#EXTINF:1.96493,Рыжий
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:2.66082,Мульт
+http://ott-cdn.ucom.am/s58/index.m3u8
+#EXTINF:2.87279,Tiji
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:2.34133,Карусель
+http://ott-cdn.ucom.am/s61/index.m3u8
+#EXTINF:5.96886,Cartoon Network
+http://ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF:1.97867,Boomerang
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:1.93588,Bloomberg
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:1.97437,Cineman
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:2.4909,Техно 24
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:1.64618,Al Jazeera Arabic
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:1.98919,Телепутешествия
+http://ott-cdn.ucom.am/s71/index.m3u8
+#EXTINF:2.10667,Hay ATV
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:1.79733,Bazmoc ATV
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:1.95807,TV5 Monde
+http://ott-cdn.ucom.am/s75/index.m3u8
+#EXTINF:1.53213,Maestro TV
+http://ott-cdn.ucom.am/s79/index.m3u8
+#EXTINF:2.4761,RTG
+http://ott-cdn.ucom.am/s80/index.m3u8
+#EXTINF:1.95864,Setanta Sport
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:1.97197,Setanta Sport Plus
+http://ott-cdn.ucom.am/s82/index.m3u8
+#EXTINF:2.61248,U!Premium
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:1.6355,Imedi TV
+http://ott-cdn.ucom.am/s85/index.m3u8
+#EXTINF:1.14502,HCT
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:3.09149,Кинохит
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:1.80136,TV1000
+http://ott-cdn.ucom.am/s90/index.m3u8
+#EXTINF:2.93109,TV1000 Action
+http://ott-cdn.ucom.am/s91/index.m3u8
+#EXTINF:1.74842,Zoo TV
+http://ott-cdn.ucom.am/s92/index.m3u8
+#EXTINF:1.5161,Russia Today Doc
+http://ott-cdn.ucom.am/s93/index.m3u8
+#EXTINF:1.71733,Киноман ATV
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:1.81642,TV1000 Русское кино
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:2.72209,Russia Today
+http://ott-cdn.ucom.am/s96/index.m3u8
+#EXTINF:11.2827,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:10.0453,CGTN Русский
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:7.65024,Canal 3 (Молдова)
+http://109.185.159.215:4011/udp/239.100.0.14:5656
+#EXTINF:15.0001,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:30.3485,Киев ТВ
+http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:6.46167,Премьера TV (Трейлеры)
+http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
+#EXTINF:3.24267,Miami TV (18+)
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+#EXTINF:1.06667,Miami TV Colombia (18+)
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+#EXTINF:1.15348,Miami TV Latino (18+)
+http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
+#EXTINF:1.46286,Туган Тел
+http://195.20.196.69:1935/tugantel/tugantel1/playlist.m3u8
+#EXTINF:7.36072,Трофей HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w1001411868_b2000000.m3u8?id=2&session=1
+#EXTINF:7.29462,Кинозал Зарубежная киноклассика
+http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
+#EXTINF:18.06,Кинозал Советская киноклассика
+http://streams.tv.mts.by/soviet_classic/1/index.m3u8
+#EXTINF:6.44267,Кинозал Индийская киноклассика
+http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
+#EXTINF:8.25729,Кинозал Классика Голливуда
+http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:38801.4,=== Моя любимая музыка 10ч 46м AUTO web playlist http://motivation.pp.ua/motivation.pp.ua.htm = FTP Share 48Tb http://motivation.pp.ua:82 =
+http://motivation.pp.ua/films/My_favorite_Music.mp3
+#EXTINF:-1,Пальчевский. _“Нарисовать_“ можно 5-7%. Порошенко этого не хватит.
+http://motivation.pp.ua/main/Palchevskij.mp4
+#EXTINF:-1,Дульский Кого мы поддерживаем на выборах 2019 Адекватная позиция и Конструктив
+https://www.youtube.com/watch?v=qif4l46KsZw
+#EXTINF:369.917,++++++Прямо Сейчас! Украина объявила войну России сегодня! Срочно!Николай Дульский YT5_Element
+http://motivation.pp.ua/main/UKR_VS_RUS.mp4
+#EXTINF:-1,ЭТО САМЫЙ БОЛЬШОЙ СЕКРЕТ ПОРОШЕНКО ПЕТИ. Вся Правда про Оффшоры Николай Дульский YT
+https://www.youtube.com/watch?v=2LSotLU5raU
+#EXTINF:-1,Кучма наехал на Порошенко Гнида ты развалил Украину!
+https://www.youtube.com/watch?v=HkncR8DCFNo
+#EXTINF:100.612,Падающий сбитый Ми 24 крокодил ВСУ над Луганском Запись объективного контроля Хроника
+http://motivation.pp.ua/main/krokodil.mp4
+#EXTINF:1438.29,+++Это Америка детка ШОК
+http://motivation.pp.ua/main/Amer_detka.mp4
+#EXTINF:1158.63,+++Простые правила как сохранить здоровье и острый ум до глубокой старости
+http://motivation.pp.ua/main/VARENE.mp4
+#EXTINF:5287.65,ТЕХНОЛОГИЯ ЛЖИ или ПОКА ЖИВУТ НА СВЕТЕ ДУРАКИ (часть первая)
+http://motivation.pp.ua/main/TL1.mp4
+#EXTINF:2655.36,ТЕХНОЛОГИЯ ЛЖИ или ПОКА ЖИВУТ НА СВЕТЕ ДУРАКИ (фильм второй)
+http://motivation.pp.ua/main/TL2.mp4
+#EXTINF:2055.29,ТЕХНОЛОГИЯ ЛЖИ или ПОКА ЖИВУТ НА СВЕТЕ ДУРАКИ (часть вторая))
+http://motivation.pp.ua/main/TL3.mp4
+#EXTINF:167.09,ТЕХНОЛОГИЯ ЛЖИ (11 сентября терракт спецслужб США)
+http://motivation.pp.ua/main/TL4.mp4
+#EXTINF:806.033,ТЕХНОЛОГИЯ ЛЖИ (продолжение лунной аферы).mp4
+http://motivation.pp.ua/main/TL5.mp4
+#EXTINF:906.668,ТЕХНОЛОГИЯ ЛЖИ (или как в НАСА рисуют Землю).mp4
+http://motivation.pp.ua/main/TL6.mp4
+#EXTINF:2526.31,+++ТЕХНОЛОГИЯ ЛЖИ (фильм пятый). Продается МКС.Это БОМБА!!!
+http://motivation.pp.ua/main/TL7.mp4
+#EXTINF:1105.2,+++Научитесь говорить “НЕТ“
+http://motivation.pp.ua/main/NO.mp4
+#EXTINF:443.269,НИКОГДА НЕ СОВЕРШАЙ ЭТИ 7 ОШИБОК Смотри прямо сейчас 18+
+http://motivation.pp.ua/main/7oshibok.mp4
+#EXTINF:764.587,Срочно Откровения отступника РЕПТИЛОИДА побывавшего на краю Плоской Земли Жесткачь.mp4
+http://motivation.pp.ua/main/Kupol_reptiloid.mp4
+#EXTINF:563.154,Запуск и остановка ядерного реактора
+http://motivation.pp.ua/main/Reactor.mp4
+#EXTINF:727.225,Это видео изменит Вашу жизнь. У меня нет слов
+http://motivation.pp.ua/films/video_izmenit_zhizn.mp4
+#EXTINF:672.311,+++ПОЧЕМУ ДЕВУШКАМ НЕЛЬЗЯ ИМЕТЬ БОЛЬШЕ 1 ПОЛОВОГО ПАРТНЁРА. ТЕЛЕГОНИЯ. ПОЧЕМУ БИОЛОГИЯ ОБ ЭТОМ МОЛЧИТ?
+http://motivation.pp.ua/main/telegonia.mp4
+#EXTINF:699.269,+++Мультихостинг на своём компе МОЙ СЕРВЕР
+http://motivation.pp.ua/files/multihosting.MP4
+#EXTINF:503.083,Честная оппозиция жжет денег не БЕРЕТ СМЕШНО до слёз
+http://motivation.pp.ua/films/majdan.mp4
+#EXTINF:792.658,Zodiak Гороскоп Прикол Матюки
+http://motivation.pp.ua/files/ZODIAK_PRIKOL_MATJUKI.mp4
+#EXTINF:1160.3,Что такое Нефть и Газ без научной лжи Первая Часть
+http://motivation.pp.ua/main/1.mp4
+#EXTINF:433.655,Олег Шаманский YT Как взять верх над душевными состояниями
+http://motivation.pp.ua/main/3.mp4
+#EXTINF:411.016,Олег Шаманский крымчанин YT Как летается в космос Серия 1  Ракеты mp4
+http://motivation.pp.ua/main/Shamanskij/1_raketi.mp4
+#EXTINF:513.765,Как летается в космос Серия 2  Свет mp4
+http://motivation.pp.ua/main/Shamanskij/2_Svet.mp4
+#EXTINF:696.808,Как летается в космос Серия 3  Спутники mp4
+http://motivation.pp.ua/main/Shamanskij/3_sputniki.mp4
+#EXTINF:683.061,Как летается в космос Серия 4  Шалаши и спортивки mp4
+http://motivation.pp.ua/main/Shamanskij/4_shalashi_i_sportivki.mp4
+#EXTINF:1110.66,Как летается в космос Серия 5  Актёры mp4
+http://motivation.pp.ua/main/Shamanskij/5_akteri.mp4
+#EXTINF:904.022,Как летается в космос Серия 6  Покорение бассейна.mp4
+http://motivation.pp.ua/main/Shamanskij/6_pokorenie_basseina.mp4
+#EXTINF:447.332,Как летается в космос Серия 7  Зачем всё это Итог mp4
+http://motivation.pp.ua/main/Shamanskij/7_Itog.mp4
+#EXTINF:822.38,Олег Шаманский Куда спетлял Гитлер
+http://motivation.pp.ua/main/Shamanskij/Gitler.mp4
+#EXTINF:59.3734,Мария Вискунова YT Про людей которые недовольны Россией 1m
+http://motivation.pp.ua/main/4.mp4
+#EXTINF:690.074,Это стоит увидеть Шаровая молния снята на камеру Странное явление природы
+http://motivation.pp.ua/main/2.mp4
+#EXTINF:441.085,Солнце начало тускнеть и мигать как перегоревшая галогенка Скоро будут менять
+http://motivation.pp.ua/main/solnce.mp4
+#EXTINF:429.428,В небе за куполом Плоской Земли живут твари похожие на драконов и иногда они проникают к нам
+http://motivation.pp.ua/main/drakoni.mp4
+#EXTINF:3658.91,ВЕЧНЫЙ ДВИГАТЕЛЬ ИЗОБРЕЛИ ТАК ПОЧЕМУ МЫ ПЛАТИМ ЗА ЭНЕРГИЮ ???
+http://motivation.pp.ua/main/dvigatel.mp4
+#EXTINF:4960.39,ИТОГ Плоская земля Ядерного оружия НЕТ радиации нет кругом ложь by STRANGER
+http://motivation.pp.ua/main/yad_oruzie.mp4
+#EXTINF:118.375,Как на самом деле запускают спутники над Плоской Землей чтобы они не продырявили купол
+http://motivation.pp.ua/main/sputniki.mp4
+#EXTINF:377.742,Монахиня о видах информации воздействии рекламы и информационном шуме в общем.
+http://motivation.pp.ua/main/monax.mp4
+#EXTINF:216.665,На юге Австралии отлично видно что Солнце не заходит за горизонт а уплывает вдаль над Плоской Землей
+http://motivation.pp.ua/main/avstralia.mp4
+#EXTINF:827.163,Твк ли опасна  радиация на самом деле? и страшилки.Макс Беляев YT
+http://motivation.pp.ua/main/radiac.mp4
+#EXTINF:925.245,Опровержение опасности радиации на практике
+http://motivation.pp.ua/main/praktika_radiac.mp4
+#EXTINF:711.342,ТЕЛЕПОРТАЦИИ которые были сняты на камеру случайно очень крутая видео подборка
+http://motivation.pp.ua/main/Teleport.mp4
+#EXTINF:382.733,Вам лучше это не видеть ОЧЕРЕДНОЙ ФАКТ
+http://motivation.pp.ua/main/Fakt.mp4
+#EXTINF:256.162,Технические службы Купола Плоской Земли сделали его ошибочное освещение над США
+http://motivation.pp.ua/main/nebo.mp4
+#EXTINF:839.935,ФТОРИРОВАНИЕ ВОДЫ  проект по стерилизации и отуплению населения В видео мат 18 +
+http://motivation.pp.ua/main/Ftor.mp4
+#EXTINF:65.12,НЛО В ПАРИЖЕ  Очень и очень хорошо снято UFO In Paris OVNIS
+http://motivation.pp.ua/main/NLO1.avi
+#EXTINF:22.1555,НЛО на Таити Шокирующие кадры
+http://motivation.pp.ua/main/NLO2.avi
+#EXTINF:13.8889,НЛО падает в воду и всплывает СУПЕР
+http://motivation.pp.ua/main/NLO3.mp4
+#EXTINF:17.5353,Авария НЛО оно падает на землю
+http://motivation.pp.ua/main/UFO_wreck.avi
+#EXTINF:694.997,В Америке люди-говно.mp4
+http://motivation.pp.ua/clips/AmerGovno.mp4
+#EXTINF:2702.76,Газировка+Соки+Воды=Смерть.avi
+http://motivation.pp.ua/doc/soki_vodi.avi
+#EXTINF:3217.2,Необъявленная война.avi
+http://motivation.pp.ua/doc/Neobjavlennaja_vojna.avi
+#EXTINF:138.186,СМИ-иллюзорный мир
+http://motivation.pp.ua/doc/SMI-Illuzornij_mir.avi
+#EXTINF:7088.63,Дух времени 1
+http://motivation.pp.ua/doc/Zeitgeist_1.avi
+#EXTINF:1112.8,Американское шоу! Задумайся!!!.avi
+http://motivation.pp.ua/doc/Amer_show.avi
+#EXTINF:702.04,Американское шоу 2! Задумайся!!!.avi
+http://motivation.pp.ua/doc/Amer_show2.avi
+#EXTINF:3438.27,+++Маски  жизнь как шоу
+http://motivation.pp.ua/main/Zhizn_kak_show.mp4
+#EXTINF:698.503,+++ЧТО СТАЛО с актерами «Маски-шоу» СПУСТЯ ГОДЫ. Тогда и сейчас
+http://motivation.pp.ua/main/Maski_godi.mp4
+#EXTINF:0,=== Самое интересное с YouTube ====Файлы лежат на домашнем компьютере в г Хмельницком Украина
+
+
+
+
+
+
+=== Самое интересное с YouTube ====Файлы лежат на домашнем компьютере в г Хмельницком Украина
+#EXTINF:-1,Вахтанг Кикабидзе Мои года, Моё богатство КАРАОКЕ
+https://www.youtube.com/watch?v=GWiHM8vVMTs
+#EXTINF:-1,Трое из Простоквашино Гоблин
+https://www.youtube.com/watch?v=RT5kv5z3QwE
+#EXTINF:-1,Каникулы в Ганджубашино Простоквашино гоблин
+https://www.youtube.com/watch?v=GexkfmA5LvQ
+#EXTINF:-1,Beyond The Minds Eye
+https://www.youtube.com/watch?v=wKxH51vPtHk
+#EXTINF:-1,Карпаты 2006 Любительская съёмка
+https://www.youtube.com/watch?v=ZVcDpWkaCJ4&t=1218s
+#EXTINF:-1,Египет Хургада Луксор Каир Любительская съёмка
+https://www.youtube.com/watch?v=gVnUFPf6cN4&t=218s
+#EXTINF:-1,Крылья ноги и хвосты
+https://www.youtube.com/watch?v=XDCgIVp6qG4
+#EXTINF:-1,МИРОВАЯ ЗУБНАЯ ЛОЖЬ!...
+https://www.youtube.com/watch?v=uERkkPE93dU
+#EXTINF:-1,Курск подводная лодка в мутной воде (Запрещён к показу в России)
+http://motivation.pp.ua/doc/kursk.mp4
+#EXTINF:-1,Мультихостинг дома WEB CS FTP DCHUB
+https://www.youtube.com/watch?v=9-0SOOn34DM
+#EXTINF:-1,SAT каналы UA GLOBOS WEBCAM
+https://www.youtube.com/watch?v=Syt9eRtyUyw&t=4s
+#EXTINF:-1,Маски -1996  Маски- Жизнь и шоу
+https://www.youtube.com/watch?v=nP29Uvyg9_4
+#EXTINF:1076.27,Годзилла Шура Каретный
+http://motivation.pp.ua/prikol/godz.mp4
+#EXTINF:-1,На тебя я повелась Мария Вискунова
+https://www.youtube.com/watch?v=BTCUW8a4a3Q
+#EXTINF:-1,Юля Тимошенко была ПРОСТИТУТКОЙ Лазоренки. Криминальное прошлое Капительман
+https://www.youtube.com/watch?v=c8yBKqWIMkU
+#EXTINF:-1,ИТОГ. Плоская земля. Ядерного оружия НЕТ радиации нет кругом ложь by STRANGER
+https://www.youtube.com/watch?v=jXR-0zhFi30&t=29s
+#EXTINF:-1,ШУТ1988
+https://www.youtube.com/watch?v=Cqh_heUlGN8&t=1660s
+#EXTINF:-1,Шизополис 1996
+https://www.youtube.com/watch?v=Pcm2l3dkKS8&t=1686s
+#EXTINF:-1,Убить дракона 1988
+https://www.youtube.com/watch?v=KlV0s3qXFwM&t=998s
+#EXTINF:-1,Земля
+https://www.youtube.com/watch?v=b24pJJSvWuk&t=2s
+#EXTINF:-1,Это видео изменит вашу жизнь
+https://www.youtube.com/watch?v=kLNND7VCNaM&t=2s
+#EXTINF:-1,Облако Рай 1990
+https://www.youtube.com/watch?v=Vas4X_GTbps&t=1474s
+#EXTINF:-1,Трасса 60 2002
+https://www.youtube.com/watch?v=3WtPvKOTpvM&t=1s
+#EXTINF:-1,Япония скрытые секреты japans hidden secrets
+https://www.youtube.com/watch?v=uEQDJh4Y2_w&t=1s
+#EXTINF:-1,Петров Ижевск Кто и как управляет миром 2005 Отрывок про революции
+https://www.youtube.com/watch?v=VpK86xSjH48&t=3s
+#EXTINF:-1,Serious Sam 3 2012-12-30 прохождение последнего Босса Final.avi
+https://www.youtube.com/watch?v=95nFMCGb6ic&t=1s
+#EXTINF:-1,Наблюдение за голограммами купола Плоской земли в любительский телескоп ЕПТ
+https://www.youtube.com/watch?v=67zLCVPyiSE
+#EXTINF:-1,Плоская Земля! СЕНСАЦИЯ!! БОМБА!! НАГЛЯДНОЕ 100% док-во!!!
+https://www.youtube.com/watch?v=-DfgSLR8Ni0
+#EXTINF:-1,Как взять верх над душевными состояниями.Сильно сказано
+https://www.youtube.com/watch?v=YRHCy8BFNC4
+#EXTINF:-1,Город-призрак в Китае Элитный посёлок без жителей
+https://www.youtube.com/watch?v=UcyJJ01TpyI
+#EXTINF:55.2867,ВОТ ЧТО ПОМОГАЕТ ЖИТЬ ДО 150ти лет
+http://motivation.pp.ua/youtube/dina.mp4
+#EXTINF:-1,Попса 90-е Жесткачъ
+https://www.youtube.com/watch?v=Oue2I-FNEio&t=1575s
+#EXTINF:-1,Командировка 2 с 1988 аудио
+https://www.youtube.com/watch?v=WrL2DzZyivU&feature=youtu.be
+#EXTINF:-1,Земля
+https://www.youtube.com/watch?v=b24pJJSvWuk
+#EXTINF:-1,Это видео изменит вашу жизнь
+https://www.youtube.com/watch?v=kLNND7VCNaM
+#EXTINF:-1,Облако Рай 1990
+https://www.youtube.com/watch?v=Vas4X_GTbps
+#EXTINF:-1,Душераздирающий ролик
+https://www.youtube.com/watch?v=4jvY-pIuaOk
+#EXTINF:-1,Честная опозиция жгёт-денег не берёт Продажный майдан
+https://www.youtube.com/watch?v=uD5hZiuDB-s
+#EXTINF:-1,Как работает RT смешной ролик
+https://www.youtube.com/watch?v=mNTDkw1S57c
+#EXTINF:-1,Антарктида
+https://www.youtube.com/watch?v=erT_DcpUgQ8
+#EXTINF:-1,Египет
+https://www.youtube.com/watch?v=S_EPUPupfEk
+#EXTINF:-1,Глазами пилота
+https://www.youtube.com/watch?v=Qg84bubBqX0
+#EXTINF:-1,Летучий корабль
+https://www.youtube.com/watch?v=Zv5lIQPRCPY
+#EXTINF:-1,Волшебное кольцо
+https://www.youtube.com/watch?v=-LqD-W9kzYw
+#EXTINF:-1,Убить дракона 1988
+https://www.youtube.com/watch?v=KlV0s3qXFwM
+#EXTINF:-1,Шизополис 1996
+https://www.youtube.com/watch?v=Pcm2l3dkKS8
+#EXTINF:-1,На "планете" ЗЕМЛЯ обитает менее 1 МИЛЛИАРДА человек Проверь сам только факты!
+https://www.youtube.com/watch?v=3TzCsxj6i04&t=351s
+#EXTINF:-1,Как я живу на 5000 рублей в месяц без работы
+https://www.youtube.com/watch?time_continue=117&v=bWRL4IitzmU
+#EXTINF:-1,Смешные Видео Машки Растушёвки. Отбитые Видео
+https://www.youtube.com/watch?v=BlSHbojcku0
+#EXTINF:-1,Я не собираюсь никогда жениться
+https://www.youtube.com/watch?v=FraXVCkKHx8&t=1s
+#EXTINF:-1,Дубли которые чуть не стоили Джеки Чану жизни
+https://www.youtube.com/watch?v=7CNwoNVq_-E
+#EXTINF:-1,МЕРКУРИЙ СКАМ !!! вот и настал конец пыцаны Александр Свободный
+https://www.youtube.com/watch?v=j2F5uMsOpL0&t=1s
+#EXTINF:-1,Кредит работа образование долги
+https://www.youtube.com/watch?v=rMlnBocWyPo
+#EXTINF:-1,Шокирующая правда о деньгах которую от нас скрывают Факты которые должен знать каждый
+https://www.youtube.com/watch?v=zyh602CqMd0&t=344s
+#EXTINF:0,=== Приколы Смешно = Понравившееся можно скачать вставив ссылку из плейлиста в броузер
+=== Приколы Смешно = Понравившееся можно скачать вставив ссылку из плейлиста в броузер
+#EXTINF:3842.84,Fuck off system или придурки из Питера(Glumteam.ru)
+http://motivation.pp.ua/prikol/Pridurki_iz_Pitera.avi
+#EXTINF:1515.29,Кооператив Украина Веселi Яйця 2
+http://motivation.pp.ua/prikol/KU.mp4
+#EXTINF:941.777,Веселі Яйця  Операция Проффесор
+http://motivation.pp.ua/prikol/Opproff.mp4
+#EXTINF:4701.96,Ледниковый период Гоблин
+http://motivation.pp.ua/films/tupik.mp4
+#EXTINF:7260.04,+++Мария Вискунова Лучшее @MariaViskunova
+http://motivation.pp.ua/prikol/MariaViskunova.mp4
+#EXTINF:187.778,Rihanna - Umbrella. Новый клип на известный хит.mp4
+http://motivation.pp.ua/prikol/alk.mp4
+#EXTINF:222.494,Пососито  ( Despacito ) ! Запрещенное Видео !.mp4
+http://motivation.pp.ua/prikol/Pososi.mp4
+#EXTINF:567.633,Маструрбация рассказ девушки...
+http://motivation.pp.ua/prikol/masturb.mp3
+#EXTINF:-1,Политический Мортал Комбат Навальный vs Медведев
+https://www.youtube.com/watch?v=YEnDPVkDl5A
+#EXTINF:-1,Супергерои. 17 мгновений Простоквашино.
+https://www.youtube.com/watch?v=C9IYi1tVAqs
+#EXTINF:-1,Супергерои. Служебный роман в Гестапо.
+https://www.youtube.com/watch?v=lsdlPEP_GRM
+#EXTINF:-1,Супергерои. Криминальный Штирлиц. (БЕЗ СМЕХА ЗА КАДРОМ)
+https://www.youtube.com/watch?v=9z9kEGMOO7o&t=6s
+#EXTINF:200.673,Печенье ЛОМ мегаржачь
+http://motivation.pp.ua/prikol/LOM.flv
+#EXTINF:164.28,Гоблин HOBIT Игра в загадки
+http://motivation.pp.ua/prikol/Hobbit.mp4
+#EXTINF:3301.64,Сказка о Кащее Бессмнртном Сектор Газа.mp4
+http://motivation.pp.ua/prikol/Skazka_sector_gaza.mp4
+#EXTINF:290.737,Большая разница Ликвидация пародия.mp4
+http://motivation.pp.ua/prikol/Likvidacija.mp4
+#EXTINF:41.7717,Кадыров и Галучтян сняли шуточный ролик.mp4
+http://motivation.pp.ua/prikol/Kadirov_i_galustjan.mp4
+#EXTINF:161.1,Наркоман Очень смешно.mp4
+http://motivation.pp.ua/prikol/Narcoman.mp4
+#EXTINF:142.245,Enjoykin_Nyash_Myash.mp4
+http://motivation.pp.ua/prikol/Enjoykin_Nyash_Myash.mp4
+#EXTINF:96.5017,Enjoykin_privet_kak_dela.mp4
+http://motivation.pp.ua/prikol/Enjoykin_privet_kak_dela.mp4
+#EXTINF:123.53,Enjoykin_Kocmos_budet_nash.mp4
+http://motivation.pp.ua/prikol/Enjoykin_Kocmos_budet_nash.mp4
+#EXTINF:174.845,Enjoykin_Zfvtrashnij_den.mp4
+http://motivation.pp.ua/prikol/Enjoykin_Zfvtrashnij_den.mp4
+#EXTINF:1076.22,Шура Каретный Годзила.mp4
+http://motivation.pp.ua/prikol/GODZILA.mp4
+#EXTINF:104.65,Рамстящие Я летала.mp3
+http://motivation.pp.ua/prikol/JA_LETALA.mp3
+#EXTINF:251.053,Приколы в Общаге.mp4
+http://motivation.pp.ua/prikol/OBCHAGA.mp4
+#EXTINF:306.264,MP3 eo?oea ianie aiaa - No?eioec
+http://motivation.pp.ua/prikol/STRIPTIZ.mp3
+#EXTINF:232.908,Ebanko_Hvatit.mp3
+http://motivation.pp.ua/prikol/Ebanko_Hvatit.mp3
+#EXTINF:69.6084,Почему у человека грустное ебало (стишок)
+http://motivation.pp.ua/prikol/Pochemu_u_cheloveka.mp3
+#EXTINF:5852.2,TRIP_2010.mp4
+http://motivation.pp.ua/prikol/TRIP_2010.mp4
+#EXTINF:160.46,Турецкая народная песня.avi
+http://motivation.pp.ua/prikol/TURKISH.avi
+#EXTINF:282.84,streetMag1.avi
+http://motivation.pp.ua/prikol/streetMag1.avi
+#EXTINF:296.32,streetMag2.avi
+http://motivation.pp.ua/prikol/streetMag2.avi
+#EXTINF:282.48,streetMag3.avi
+http://motivation.pp.ua/prikol/streetMag3.avi
+#EXTINF:267.08,streetMag4.avi
+http://motivation.pp.ua/prikol/streetMag4.avi
+#EXTINF:178.991,EBANKO.mp3
+http://motivation.pp.ua/prikol/EBANKO.mp3
+#EXTINF:87.9804,Pushnoy.ru - Iaecaanoiue eniieieoaeu / Iaecaanoiay eiiiiceoey
+http://motivation.pp.ua/prikol/ARMIA.mp3
+#EXTINF:143.673,Солдатская зорька Смешно.mp3
+http://motivation.pp.ua/prikol/ZORKA.mp3
+#EXTINF:314.525,JAPAN.MP3
+http://motivation.pp.ua/prikol/JAPAN.MP3
+#EXTINF:678.648,Армия подборка приколов.mp4
+http://motivation.pp.ua/prikol/Armija_prikol_podborka.mp4
+#EXTINF:131.553,04-Дискотека Авария & О.Меньшиков _ Ну и ладно ну и до свидания
+http://motivation.pp.ua/prikol/Avaria_Menshikov.mp3
+#EXTINF:129.019,Строение человека Немой Лом
+http://motivation.pp.ua/prikol/Chelovek.mp3
+#EXTINF:49.3192,Метро
+http://motivation.pp.ua/prikol/metro.mp3
+#EXTINF:175.778,Anekdots.ru _ Василий поздравляет женщин с 8 марта
+http://motivation.pp.ua/prikol/Vasilij.mp3
+#EXTINF:85.7861,На улице дождик на улице слякоть
+http://motivation.pp.ua/prikol/lubov.mp3
+#EXTINF:300.539,Жириновский в Ираке
+http://motivation.pp.ua/prikol/Zhirik_v_Irake.mp3
+#EXTINF:69.6084,Почему у человека грустное ебало Немой Лом
+http://motivation.pp.ua/prikol/Pochemu_u_cheloveka.mp3
+#EXTINF:0,=== Клипы = download liked- insert link from playlist into browser
+=== Клипы = download liked- insert link from playlist into browser
+#EXTINF:-1,STB_BIZ_TV_1998.mpg
+http://motivation.pp.ua/clips/STB_BIZ_TV_1998.mpg#EXTINF:-1,Флаг над замком А Макаревич
+https://www.youtube.com/watch?v=Kye8wt8_v9U
+#EXTINF:-1,Потап и Настя - Не пара
+https://www.youtube.com/watch?v=N2i0xvcFUZ0
+#EXTINF:-1,Николай Басков - Натуральный блондин (видеоклип)
+https://www.youtube.com/watch?v=tvQSyl_MSTE
+#EXTINF:-1,Позови меня с собой. Алла Пугачева
+https://www.youtube.com/watch?v=DPOO7A_mOKQ
+#EXTINF:-1,С.Ротару ~ Я назову планету именем твоим
+https://www.youtube.com/watch?v=VhTNr0IU_yQ
+#EXTINF:-1,Юное дарование
+http://motivation.pp.ua/clips/Unoe_darovanie.mp4
+#EXTINF:0,EXTINF:-1&#44;Детки играют на гитарах
+EXTINF:-1,Детки играют на гитарах
+#EXTINF:208.16,Detki_igraut_na_gitarah.flv
+http://motivation.pp.ua/clips/Detki_igraut_na_gitarah.flv
+#EXTINF:228.856,Aerosmith-Falling In Love (Is Hard On The Kness)
+http://motivation.pp.ua/clips/Falling_In_Love.mp4
+#EXTINF:294.242,Aerosmith - I Don't Want to Miss a Thing (Video)
+http://motivation.pp.ua/clips/I_Don't_Want_to_Miss.mp4
+#EXTINF:380.575,Aerosmith - Hole In My Soul
+http://motivation.pp.ua/clips/Aerosmith_Soul.mp4
+#EXTINF:-1,Кристина Орбакайте - Май (FULL HD)
+https://www.youtube.com/watch?v=2e5k7incB80
+#EXTINF:259.46,The_Smashing_Pumpkins_-_Ava Adore.mp4
+http://motivation.pp.ua/clips/The_Smashing_Pumpkins_-_Ava Adore.mp4
+#EXTINF:239.583,+++Fettes_Brot_Oficial.mp4
+http://motivation.pp.ua/clips/+++Fettes_Brot_Oficial.mp4
+#EXTINF:216.736,FARRIS_MC_FLASH_FOR_FARRIS_MC.mpg
+http://motivation.pp.ua/clips/FARRIS_MC_FLASH_FOR_FARRIS_MC.mpg
+#EXTINF:222.208,+++TRAVIS_SIDE_UFO.mpg
+http://motivation.pp.ua/clips/+++TRAVIS_SIDE_UFO.mpg
+#EXTINF:235.576,SUPERMAN_LOVERS_STARLITE.mpg
+http://motivation.pp.ua/clips/SUPERMAN_LOVERS_STARLITE.mpg
+#EXTINF:141.247,Ленинград _“Вся культура в Питере_“
+http://motivation.pp.ua/clips/Vsya_kultura_v_pitere.mp4
+#EXTINF:218.012,Сергей Трофимов - Эх
+http://motivation.pp.ua/clips/Trofimov.mp4
+#EXTINF:1552.65,ДЛЯ ТЕХ КОМУ ЗА 30-ть Сборник кавер музыки Сектор газа
+http://motivation.pp.ua/clips/SG_cover.mp4
+#EXTINF:609.547,Музыка которую не возможно забыть! Хайп сборник клипов лучших каверов Сектор газа
+http://motivation.pp.ua/clips/SektorGaza.mp4
+#EXTINF:164.187,+++Tik Tu - Колихана (Shuma 2016) Наталья Багрий
+http://motivation.pp.ua/clips/Kolihanka.mp4
+#EXTINF:284.583,Малолетние шалавы
+http://motivation.pp.ua/clips/M_SH.mp4
+#EXTINF:298.19,Сектор газа  Ночь перед Рождеством
+http://motivation.pp.ua/clips/SG_night.mp4
+#EXTINF:259.553,Rammstein - Amerika (На русском языке 1080p) (RADIO TAPOK)
+http://motivation.pp.ua/clips/Rammstein.mp4
+#EXTINF:256,Николай Емелин Княжий Остров
+http://motivation.pp.ua/clips/Emelin_kn_ostrov.mp4
+#EXTINF:228.136,Ленинград ft. Глюк’oZa (ft. ST) Жу Жу  КЛИП (ДРАКА)
+http://motivation.pp.ua/clips/Leningrad_Glukoza.mp4
+#EXTINF:321.202,Zvezda_po_imeni_solnce.mp4
+http://motivation.pp.ua/clips/Zvezda_po_imeni_solnce.mp4
+#EXTINF:257.68,Зло Авария Официал.avi
+http://motivation.pp.ua/clips/Zlo.mp4
+#EXTINF:225.907,Walking In The Air (from? The Snowman).mp4
+http://motivation.pp.ua/clips/Walking_In_The_Air.mp4
+#EXTINF:207.655,Вперёд Россия Газманов.mp4
+http://motivation.pp.ua/clips/Vpered_Rossia.mp4
+#EXTINF:272.52,Николай Емелин Царские забавы
+http://motivation.pp.ua/clips/video1.avi
+#EXTINF:433.54,В Питере пить Ленинград.mp4
+http://motivation.pp.ua/clips/V_pitere_pit.mp4
+#EXTINF:226.667,UFO запрещён на Ютубе
+http://motivation.pp.ua/clips/UFO.avi
+#EXTINF:268.36,Трофим
+http://motivation.pp.ua/clips/Trofim.flv
+#EXTINF:174.753,Такого как Путин Официал
+http://motivation.pp.ua/clips/Takogo_kak_putin.mp4
+#EXTINF:211.973,Страна Лимония Дюна
+http://motivation.pp.ua/clips/Strana_limonia.mp4
+#EXTINF:271.65,Стёб про плоскую землю
+http://motivation.pp.ua/clips/Steb.mp4
+#EXTINF:337.942,Сиськи Ленинград
+http://motivation.pp.ua/clips/Siski.mp4
+#EXTINF:270.257,Scatman.mp4
+http://motivation.pp.ua/clips/Scatman.mp4
+#EXTINF:314.331,Rus.AVI
+http://motivation.pp.ua/clips/Rus.AVI
+#EXTINF:278.337,Roxete.mp4
+http://motivation.pp.ua/clips/Roxete.mp4
+#EXTINF:227.8,Rodina.AVI
+http://motivation.pp.ua/clips/Rodina.AVI
+#EXTINF:258.322,Rammstein - Amerika (Official Video).mp4
+http://motivation.pp.ua/clips/Rammstein_-_Amerika.mp4
+#EXTINF:220.217,Почему ты молчишь Свин-хин-хин
+http://motivation.pp.ua/clips/Pochemu_ti_molchish.mp4
+#EXTINF:394.06,Пиво Юрий Лоза.mpg
+http://motivation.pp.ua/clips/Pivo.mpg
+#EXTINF:276.597,Беловежская пуща Песняры
+http://motivation.pp.ua/clips/Pesniari.mp4
+#EXTINF:216.502,От Волги до Енисея Любэ .mp4
+http://motivation.pp.ua/clips/Ot_Volgi_do_Eniseja .mp4
+#EXTINF:285.605,О-ё Чай-ф
+http://motivation.pp.ua/clips/O_jo.mp4
+#EXTINF:225.28,Новая зоря Запрещённый клип Олега Газманова.avi
+http://motivation.pp.ua/clips/Novaja_zorja.avi
+#EXTINF:168.809,Три немки покажут вам немецкий язык
+http://motivation.pp.ua/clips/Nemki.mp4
+#EXTINF:276.56,Nebo_slavjan1.avi
+http://motivation.pp.ua/clips/Nebo_slavjan1.avi
+#EXTINF:281.367,Nebo_slavjan.avi
+http://motivation.pp.ua/clips/Nebo_slavjan.avi
+#EXTINF:216.936,Что нам делать? Наив.mpg
+http://motivation.pp.ua/clips/Naiv.mpg
+#EXTINF:307.851,Самый лучший день Нагиев Спецэфекты
+http://motivation.pp.ua/clips/Nagiev.mp4
+#EXTINF:295.73,Меладзе Ночь на кануне рождества.mp4
+http://motivation.pp.ua/clips/Meladze.mp4
+#EXTINF:212.763,Мазаль тов это он это вражеский Сион Прикол
+http://motivation.pp.ua/clips/Mazaltob_eto_on.mp4
+#EXTINF:177.255,Мама я не могу больше пить Гребенщиков
+http://motivation.pp.ua/clips/Mama_ne_mogu_pit.avi
+#EXTINF:208.386,MAD RABI ДАЙ
+http://motivation.pp.ua/clips/Mad_Rabbi - Give!.mp4
+#EXTINF:209.397,Любити платити Скрябин Кузьиа
+http://motivation.pp.ua/clips/Lubutu_Platutu.mp4
+#EXTINF:338.523,Купола Круг М
+http://motivation.pp.ua/clips/Kupola.mp4
+#EXTINF:332.485,Алиса Крещение
+http://motivation.pp.ua/clips/Kreschenie_Alisa.flv
+#EXTINF:368.756,Кольшик Круг М
+http://motivation.pp.ua/clips/Kolshik.mp4
+#EXTINF:256,Княжий остров Емелин
+http://motivation.pp.ua/clips/Knjazhij_octrov.mp4
+#EXTINF:209.142,О евреях Рабфак
+http://motivation.pp.ua/clips/J_evrejah.mp4
+#EXTINF:179.768,Я инженер на сто рублей Гребенщиков
+http://motivation.pp.ua/clips/Inzhener.mp4
+#EXTINF:149.42,Хорошо там где мы есть Ленинград
+http://motivation.pp.ua/clips/Horosho_tam_gde_mi_est.mp4
+#EXTINF:339.498,Войско гуманоидов воров КПЕ
+http://motivation.pp.ua/clips/Gumanoid.mp4
+#EXTINF:203.987,Такую сука просрали страну Рабфак.mp4
+http://motivation.pp.ua/clips/Prosrali_stranu.mp4
+#EXTINF:245.132,Грязь Алиса.mp4
+http://motivation.pp.ua/clips/Grjaz.mp4
+#EXTINF:310.055,Б Гребенщиков и А Васильев Песня о звёздах.mp4
+http://motivation.pp.ua/clips/Greben.mp4
+#EXTINF:174.52,Фиаско Ленинград
+http://motivation.pp.ua/clips/Fiasco.mp4
+#EXTINF:230.41,Eti_russkie.mp4
+http://motivation.pp.ua/clips/Eti_russkie.mp4
+#EXTINF:87.633,На улице дождик 1080p.mp4
+http://motivation.pp.ua/clips/Dozhdik.mp4
+#EXTINF:234.545,Дорога истины.flv
+http://motivation.pp.ua/clips/Doroga_istini.flv
+#EXTINF:167.81,Русские дороги Игорь Растеряев
+http://motivation.pp.ua/clips/Doroga.mp4
+#EXTINF:137.393,Девушка молодец спела песню Такого как Путин
+http://motivation.pp.ua/clips/Devushka_takogo_kak_putin.mp4
+#EXTINF:131.8,Цензура
+http://motivation.pp.ua/clips/Cenzura.avi
+#EXTINF:173.128,Бой Игорь растеряев
+http://motivation.pp.ua/clips/Boy.mp4
+#EXTINF:243.368,Bobby McFerrin - Don't Worry Be Happy.mp4
+http://motivation.pp.ua/clips/Bobby_McFerrin__Dont_Worry_BeHappy.mp4
+#EXTINF:166.208,Берёзы Любэ
+http://motivation.pp.ua/clips/Berezi.mp4
+#EXTINF:327.332,Зло Авария
+http://motivation.pp.ua/clips/_zlo_ .mp4
+#EXTINF:198.115,018 - Pink Floyd - Another_Brick_In_The_Wall.avi
+http://motivation.pp.ua/clips/Another_Brick_In_The_Wall.avi
+#EXTINF:240.373,Рэгги вночи Лада Дэнс.mp4
+http://motivation.pp.ua/clips/Lada_Dens_Reggi_V_nochi.mp4
+#EXTINF:184.08,Bloodhound_Gang-Ballad_of_chasey.mpeg
+http://motivation.pp.ua/clips/Bloodhound_Gang-Ballad_of_chasey.mpeg
+#EXTINF:205,Kylie_Minogue_I_Should_Be_So_Lucky.avi
+http://motivation.pp.ua/clips/Kylie_Minogue_I_Should_Be_So_Lucky.avi
+#EXTINF:331.07,EMINEM (THE_REAL_SLIM_SHADY ).avi
+http://motivation.pp.ua/clips/THE_REAL_SLIM_SHADY.avi
+#EXTINF:230.296,Давай забудем всё Алёна Винницкая.avi
+http://motivation.pp.ua/clips/Davaj_zabudem_vce.avi
+#EXTINF:214.04,Pink Stupid Girl.mpg
+http://motivation.pp.ua/clips/Pink.mpg
+#EXTINF:321.108,Eminem - Like_Toy_Soldiers_(280x688_XviD_AC3).avi
+http://motivation.pp.ua/clips/Eminem - Like_Toy_Soldiers_(280x688_XviD_AC3).mp4
+#EXTINF:221.262,Enya-Caribbean_Blue_(video).mp4
+http://motivation.pp.ua/clips/Enya-Caribbean_Blue_(video).mp4
+#EXTINF:331.07,Nightwish - Walking in the Air.mp4
+http://motivation.pp.ua/clips/THE_REAL_SLIM_SHADY.avi
+#EXTINF:319.088,Nogano_armia_fan_video.mp4
+http://motivation.pp.ua/clips/Nogano_armia_fan_video.mp4
+#EXTINF:339.374,НоГГано - Кинуть лоха
+http://motivation.pp.ua/clips/noggano_-_kinut_loha_(zvukoff.ru).mp3
+#EXTINF:258.252,ЛИРИКА СекторГаза
+http://motivation.pp.ua/clips/2.mp4
+#EXTINF:699.176,Они чертовски хороши подборка СекторГаза
+http://motivation.pp.ua/clips/1.mp4
+#EXTINF:222.865,Демобилизация СекторГаза
+http://motivation.pp.ua/clips/3.mp4
+#EXTINF:236.215,Пора домой СекторГаза
+http://motivation.pp.ua/clips/4.mp4
+#EXTINF:238.887,ЧБ Пилот
+http://motivation.pp.ua/clips/5.mp4
+#EXTINF:0,=== 3D = скачать понравившееся можно вставив ссылку из плейлиста в броузер
+=== 3D = скачать понравившееся можно вставив ссылку из плейлиста в броузер
+#EXTINF:2509.54,Эрмитаж TheStateHermitageMuseum(3D)2011.halfOU(ash61)
+http://motivation.pp.ua/3D/ERMITADG3D.mkv
+#EXTINF:1600.38,Microworlds 3D.avi
+http://motivation.pp.ua/3D/Microworlds_3D.avi
+#EXTINF:1620.58,Sky 3D - The Reef
+http://motivation.pp.ua/3D/Sky3D-The_Reef.mkv
+#EXTINF:2324.64,LG 3D Demo Showcase 3D Half SBS Intense 3D For your 3D TV
+http://motivation.pp.ua/3D/LG_3D_Demo_Showcase_3D_Half_SBS_Intense_3D_Foryour_3D_TV.mp4
+#EXTINF:314.231,Nature.mkv
+http://motivation.pp.ua/3D/Nature.mkv
+#EXTINF:1526.92,3D HD Advance Okinawa Churaumi Aquarium)
+http://motivation.pp.ua/3D/Okinawa_Churaumi_Aquarium.mp4
+#EXTINF:167.927,3D - LG 3D SOUND DEMO 2 1 1 Title6 Flying Steps
+http://motivation.pp.ua/3D/3D-LG_3D_SOUND_DEMO_Title6_Flying_Steps.mp4
+#EXTINF:165.327,3D - LG 3D SOUND DEMO 2 1 1 Title8 World of Warcraft
+http://motivation.pp.ua/3D/3D-LG_3D_SOUND_DEMO_Title8_World_of_Warcraft.mp4
+#EXTINF:129.777,3D - LG 3D SOUND DEMO 2 1 1 Title12 Aquarium
+http://motivation.pp.ua/3D/3D-LG_3D_SOUND_DEMO_Title12_Aquarium.mp4
+#EXTINF:165.651,3D - PANASONIC 2012 DEMO Title15 Italian Football Serie A
+http://motivation.pp.ua/3D/3D-PANASONIC_DEMO_Title15_Italian_Football_Serie_A.mp4
+#EXTINF:144.057,3D - PANASONIC 2012 DEMO Title18 Forest Tweet
+http://motivation.pp.ua/3D/3D-PANASONIC_DEMO_Titl_18_Forest_Tweet.mp4
+#EXTINF:2447.61,Букашки
+http://motivation.pp.ua/films/Bukashki.avi
+#EXTINF:192.966,Aqua.mkv
+http://motivation.pp.ua/3D/Aqua.mkv
+#EXTINF:314.231,Nature.mkv
+http://motivation.pp.ua/3D/Nature.mkv
+#EXTINF:239.398,TopGirl.mkv
+http://motivation.pp.ua/3D/TopGirl.mkv
+#EXTINF:159.701,FoodFight.mkv
+http://motivation.pp.ua/3D/FoodFight.mkv
+#EXTINF:197.207,SuperJunior MrSimple.mkv
+http://motivation.pp.ua/3D/SuperJuniorMrSimple.mkv
+#EXTINF:146.563,RoseGirls.mkv
+http://motivation.pp.ua/3D/RoseGirls.mkv
+#EXTINF:195.001,ExtremeSport.mkv
+http://motivation.pp.ua/3D/ExtremeSport.mkv
+#EXTINF:231.274,Sport.mkv
+http://motivation.pp.ua/3D/Sport.mkv
+#EXTINF:560.06,+++LG 3D DEMO Global 1080p HD_(1080p).avi
+http://motivation.pp.ua/3D/+++LG_3D_DEMO_Global_1080p_HD_(1080p).avi
+#EXTINF:0,=== Красиво фильмы  ==
+=== Красиво фильмы  ==
+#EXTINF:1.43674,Поток чилл-аут эмбиент ланж (плейлист на 4 суток)
+http://urfinus.no-ip.org:8000/ices
+#EXTINF:5124.05,Мои любимые клипы 1ч 25м 720p mp4
+http://motivation.pp.ua/films/favorite_clips_720p_1h25m.mp4
+#EXTINF:49661.1,Стрим канала Наша Сибирь Шикарная природа 13ч 47м 720p TS
+http://motivation.pp.ua/films/nasha_sibir_720p_13h47m.ts
+#EXTINF:3237.84,+++Счастливые люди Бахта на реке Енисей Весна
+http://motivation.pp.ua/main/SL_Vesna.flv
+#EXTINF:3076.08,+++Счастливые люди Бахта на реке Енисей Зима
+http://motivation.pp.ua/main/SL_Zima.flv
+#EXTINF:3146.32,+++Счастливые люди Бахта на реке Енисей Лето
+http://motivation.pp.ua/main/SL_Leto.flv
+#EXTINF:3105.64,+++Счастливые люди Бахта на реке Енисей Осень
+http://motivation.pp.ua/main/SL_Osen.flv
+#EXTINF:1125.96,Биополе человека Жданов В Г.avi
+http://motivation.pp.ua/clips/Biopole.avi
+#EXTINF:1191.3,Владимир Епифанцев 18+ ВАЙНЫ №1
+http://motivation.pp.ua/Epifancev/vajni_1.mp4
+#EXTINF:1191.3,Владимир Епифанцев 18+ ВАЙНЫ №2
+http://motivation.pp.ua/Epifancev/vajni_1.mp4
+#EXTINF:1191.3,Владимир Епифанцев 18+ ВАЙНЫ №3
+http://motivation.pp.ua/Epifancev/vajni_1.mp4
+#EXTINF:283.238,Тайд Епифанцев.mp4
+http://motivation.pp.ua/clips/Tajd.mp4
+#EXTINF:152.462,Акция Тайд или отрубание головы.mp4
+http://motivation.pp.ua/clips/Taid.mp4
+#EXTINF:261.689,Kak_rabotaet_RT.mp4
+http://motivation.pp.ua/films/Kak_rabotaet_RT.mp4
+#EXTINF:34.4117,Visadka_na_Lunu.mp4
+http://motivation.pp.ua/clips/Visadka_na_Lunu.mp4
+#EXTINF:640.505,Прага Чехия
+http://motivation.pp.ua/films/Praha.flv
+#EXTINF:5664.36,Птицы
+http://motivation.pp.ua/films/Pticu.avi
+#EXTINF:3041.04,Подводный мир Египта
+http://motivation.pp.ua/films/Egipt.mkv
+#EXTINF:524.053,Планета Земля
+http://motivation.pp.ua/films/Zemlja.flv
+#EXTINF:246.92,Пейзажи Карпат
+http://motivation.pp.ua/films/Karpati.flv
+#EXTINF:64.914,Душераздирающий ролик
+http://motivation.pp.ua/films/rolik.avi
+#EXTINF:5003.44,Глазами пилота Вена-Токио
+http://motivation.pp.ua/films/Glazami_pilota.mkv
+#EXTINF:252.64,Антарктида
+http://motivation.pp.ua/films/Antarktida.flv
+#EXTINF:4525.49,Микрокосмос
+http://motivation.pp.ua/films/Microcosmos.avi
+#EXTINF:2813.6,japans_hidden_secrets.mkv
+http://motivation.pp.ua/films/japans_hidden_secrets.mkv
+#EXTINF:2565.72,Барака 1992 1
+http://motivation.pp.ua/films/Baraka(1992)1.avi
+#EXTINF:2998.12,Барака 1992 2
+http://motivation.pp.ua/films/Baraka(1992)2.avi
+#EXTINF:3395.04,Дом 1.mp4
+http://motivation.pp.ua/films/HOUSE1.mp4
+#EXTINF:3382.64,Дом 2.mp4
+http://motivation.pp.ua/films/HOUSE2.mp4
+#EXTINF:0,=== Фильмы =скачать понравившееся можно вставив ссылку из плейлиста в броузер
+=== Фильмы =скачать понравившееся можно вставив ссылку из плейлиста в броузер
+#EXTINF:5511.56,Postal (2007)_Goblin.avi
+http://motivation.pp.ua/films/Postal (2007)_Goblin.avi
+#EXTINF:5511.56,Шестой элемент комедия.avi
+http://motivation.pp.ua/films/6_element.avi
+#EXTINF:4548.76,Солярис [1].avi
+http://motivation.pp.ua/films/Solaris1.avi
+#EXTINF:5034.96,Солярис [2].avi
+http://motivation.pp.ua/films/Solaris2.avi
+#EXTINF:3763.68,Сталкер (Russian) (1979) [CD1 of 2].avi
+http://motivation.pp.ua/films/Stalker1.avi
+#EXTINF:5532.56,Сталкер (Russian) (1979) [CD2 of 2].avi
+http://motivation.pp.ua/films/Stalker2.avi
+#EXTINF:4511.85,Таро - сын Дракона Полнометражные Мультфильмы Аниме
+http://motivation.pp.ua/films/Taro.mp4
+#EXTINF:4917.64,Мама не горюй 1
+http://motivation.pp.ua/films/Mama1.avi
+#EXTINF:6139.24,Мама не горюй 2
+http://motivation.pp.ua/films/Mama2.avi
+#EXTINF:4762.36,Отель У погибшего альпиниста
+http://motivation.pp.ua/films/Otel.u.pogibshego.alpinista.avi
+#EXTINF:8650.56,Не бойся я с тобой
+http://motivation.pp.ua/films/Ne.boysya.ya.s.toboy.1981.DVDRip.avi
+#EXTINF:5276.95,Мы из джаза
+http://motivation.pp.ua/films/My.Iz.Dzhaza.1983.RUS.BDRip.avi
+#EXTINF:5672.47,Romance 1999 X Романс 1999 эротика
+http://motivation.pp.ua/films/RomanceX.mkv
+#EXTINF:5102.06,Зимний вечер в Гаграх (1985) DVDRip
+http://motivation.pp.ua/films/Zimn_vech_v_Gagrah.avi
+#EXTINF:5782.72,Здравствуйте я ваша Тётя 1975
+http://motivation.pp.ua/films/ZDRAVSTV.avi
+#EXTINF:8587.72,Криминальное чтиво Pulp Fiction качественный перевод Интер 1994
+http://motivation.pp.ua/films/Pulp_Fiction_INTER.avi
+#EXTINF:2592.29,Жванецкий старьё 1986
+http://motivation.pp.ua/clips/Zhvan1986.mp3
+#EXTINF:332.643,Задорнов 1986
+http://motivation.pp.ua/clips/Zad1986.mp3
+#EXTINF:4207.47,Аудиодорожка фильма Командировка 1988 с Андреем Смоляковым 2с Раритет
+http://motivation.pp.ua/films/Komandirovka_1988.wma
+#EXTINF:7153,Однажды в Чернобыле пародия на 5-й элемент.avi Матюки
+http://motivation.pp.ua/films/5_Element.avi
+#EXTINF:7345.82,Приключения капитана Врунгеля. Все 13 серий подряд (1976-1979) ¦ Мультфильмы. Золотая коллекция
+http://motivation.pp.ua/films/Vrungel.mp4
+#EXTINF:4107.48,Доктор Айболит 1985 мульт
+http://motivation.pp.ua/films/Doktor.Ajbolit.1985.avi
+#EXTINF:4876.64,Горячие головы_1.l.y.1991.avi
+http://motivation.pp.ua/films/GorjachGolovi1991.avi
+#EXTINF:5090.88,Горячие головы 2.mkv
+http://motivation.pp.ua/films/GorGolovi2.mkv
+#EXTINF:5109.12,51-й штат Гоблин
+http://motivation.pp.ua/films/(Goblin)51_State(Rus).avi
+#EXTINF:6401.02,ОСТРОВ СОКРОВИЩ (Все серии подряд) [HD].mp4
+http://motivation.pp.ua/films/Ostrovsokr.mp4
+#EXTINF:8664.8,АССА 1987
+http://motivation.pp.ua/films/Assa.avi
+#EXTINF:5498.61,Иван Васильевич меняет профессию 1973
+http://motivation.pp.ua/films/Ivan.Vasilevich.menyaet.professiyu.1973.RUS.BDRip.XviD.AC3.-HQCLUB.avi
+#EXTINF:5850.64,Паспорт 1990
+http://motivation.pp.ua/films/Pasport.1990.avi
+#EXTINF:5610.64,Шут 1988
+http://motivation.pp.ua/films/Shut.1988.avi
+#EXTINF:5166.4,Дела Лоховского 1997
+http://motivation.pp.ua/films/Dela_Lohovskogo1997.avi
+#EXTINF:4680.04,Облако рай Коля перекати поле 1990
+http://motivation.pp.ua/films/Oblako-raj_1990.mkv
+#EXTINF:3972.98,Кин-Дза-Дза 1986 1
+http://motivation.pp.ua/films/Kin.Dza.Dza.1.1986.BDRip.avi
+#EXTINF:3997.33,Кин-Дза-Дза 1986 2
+http://motivation.pp.ua/films/Kin.Dza.Dza.2.1986.BDRip.avi
+#EXTINF:1072.69,Хоббит в смешном переводе Гоблина 1 18м mp4
+http://motivation.pp.ua/films/Hobbit_Goblin_part_01_18m.mp4
+#EXTINF:1352.77,Хоббит в смешном переводе Гоблина 2 20м mp4
+http://motivation.pp.ua/films/Hobbit_Goblin_part_02_22m.mp4
+#EXTINF:1118.09,Хоббит в смешном переводе Гоблина 3 18м mp4
+http://motivation.pp.ua/films/Hobbit_Goblin_part_03_18m.mp4
+#EXTINF:1197.19,Хоббит в смешном переводе Гоблина 4 20м mp4
+http://motivation.pp.ua/films/Hobbit_Goblin_part_04_20m.mp4
+#EXTINF:4369.52,Антибумер в смешном переводе Гоблина 1ч 12м avi
+http://motivation.pp.ua/films/AntibumerGoblin2003.avi
+#EXTINF:6159.95,Большой куш в переводе Гоблина 1ч 42м avi
+http://motivation.pp.ua/films/Bolshoj_kush_Goblin_2001.avi
+#EXTINF:5841.92,Грязь в переводе Гоблина 1ч 37м avi
+http://motivation.pp.ua/films/Filth_2013_Goblin.avi
+#EXTINF:6359.23,Final Fantasy The Spirits Within в правильном переводе Гоблина 1ч 42м avi
+http://motivation.pp.ua/films/FinalFantasy-TheSpiritsWithinGoblin.avi
+#EXTINF:6275.23,Карты деньги Два ствола в смешном переводе Гоблина 1ч 44м avi
+http://motivation.pp.ua/films/Karti_dengi_dva_stvola.avi
+#EXTINF:5051,Кровавый четверг в переводе Гоблина 1ч 24м avi
+http://motivation.pp.ua/films/Krovavij_chetverg_Goblin.avi
+#EXTINF:3836.92,Москва не резиновая трудности перевода 1ч 03м avi
+http://motivation.pp.ua/films/Moskva_ne_rezinovaj_1.avi
+#EXTINF:4769.24,Москва не резиновая трудности перевода 2ч 03м avi
+http://motivation.pp.ua/films/Moskva_ne_rezinovaj_2.avi
+#EXTINF:5341.25,Недецкое кино комедия 1ч 29м avi
+http://motivation.pp.ua/films/Nedeckoe_kino.avi
+#EXTINF:7099.72,Ночной базар Володарский 1ч 58м avi
+http://motivation.pp.ua/films/Nochnoi_bazar.avi
+#EXTINF:8076.04,Пираты карибского моря 1 Гоблин 2ч 14м avi
+http://motivation.pp.ua/films/Pirati_Goblin_(720p).avi
+#EXTINF:5285.81,Реквием по евросоюзу Трудности перевода 1ч 28м avi
+http://motivation.pp.ua/films/Rekviem_po_Evrosouzu.avi
+#EXTINF:4471.64,Шматрица в Гоблине 1 1ч 14м avi
+http://motivation.pp.ua/films/Shmatrica_1.avi
+#EXTINF:3755.3,Шматрица в Гоблине 2 1ч 02м avi
+http://motivation.pp.ua/films/Shmatrica_2.avi
+#EXTINF:4247.54,Звёздные войны 1 Буря в стакане в Гоблине 1 1ч 10м avi
+http://motivation.pp.ua/films/Star.Wars.Episode.I.Storm.in.the.Glass.1.of.2.by.Goblin.avi
+#EXTINF:3925.8,Звёздные войны 1 Буря в стакане в Гоблине 2 1ч 05м avi
+http://motivation.pp.ua/films/Star.Wars.Episode.I.Storm.in.the.Glass.2.of.2.by.Goblin.avi
+#EXTINF:6546.13,Терминатор 3 Восстание нацистов в переводе Хоббита 1ч 49м avi
+http://motivation.pp.ua/films/Terminator3_Goblin.avi
+#EXTINF:7041.13,Большой Лебовски в Гоблине  1ч 57м avi
+http://motivation.pp.ua/films/The_Big_Lebowski_1998_Goblin.avi
+#EXTINF:5652.53,Они живут 1988 They_Live
+http://motivation.pp.ua/films/TLive.avi
+#EXTINF:6178.35,Шоу Трумана The_Truman_Show (1998).avi
+http://motivation.pp.ua/films/The_Truman_Show(1998).avi
+#EXTINF:5731.31,Хардкор Hardcore
+http://motivation.pp.ua/main/HARDCORE.mp4
+#EXTINF:5487.72,Прекрасная Зелёная La_belle_verte_1996.avi
+http://motivation.pp.ua/films/La_belle_verte_1996.avi
+#EXTINF:6649.88,Трасса 50 Interstate_60_(2002).avi
+http://motivation.pp.ua/films/Interstate_60_(2002).avi
+#EXTINF:6064.02,День Сурка_1993.avi
+http://motivation.pp.ua/films/groundhog_day_1993.avi
+#EXTINF:5842.17,Шизополис(1996).mkv
+http://motivation.pp.ua/films/SHIZOPOLIS(1996).mkv
+#EXTINF:5962,Турист Джони Дэп
+http://motivation.pp.ua/films/Tourist.avi
+#EXTINF:7718.57,Игра 1997 Майкл Дуглас
+http://motivation.pp.ua/films/Game_(1997).mkv
+#EXTINF:11706.6,Список Шиндлера 1993
+http://motivation.pp.ua/films/Spisok_Shindlera_1993_BDRip.avi
+#EXTINF:4009.3,Сибириада.(1.film.iz.4).1979.XviD.DVDRip.ExKinoRay
+http://motivation.pp.ua/films/Siberiada1.avi
+#EXTINF:3752.13,Сибириада.(2.film.iz.4).1979.XviD.DVDRip.ExKinoRay.avi
+http://motivation.pp.ua/films/Siberiada2.avi
+#EXTINF:5238.36,Баллада о доблестном рыцаре Айвенго 1982.XviD.DVDRip.Kinozal.tv.avi
+http://motivation.pp.ua/films/Ballada.o.doblestnom.rytsare.Ajvengo.1982.XviD.DVDRip.Kinozal.tv.avi
+#EXTINF:6949.94,Убить Дракона 1988
+http://motivation.pp.ua/films/Ubit_drakona.avi
+#EXTINF:5182.24,Формула любви 1984
+http://motivation.pp.ua/films/Formula_lubvi.avi
+#EXTINF:0,=== Аномалии небосвода =
+=== Аномалии небосвода =
+#EXTINF:256.092,!!!!Технические службы Купола Плоской Земли сделали его ошибочное освещение над США
+http://motivation.pp.ua/main/nebo/19.mp4
+#EXTINF:1310.46,+++Ролик о Плоской Земле который 9 раз удаляли с Ютуба но он нашелся в Фейсбуке
+http://motivation.pp.ua/main/nebo/1.mp4
+#EXTINF:300.512,+++МКС в Телескоп и Кино с МКС  Большая Разница Плоская Земля
+http://motivation.pp.ua/main/nebo/2.mp4
+#EXTINF:992.56,+++Астроном заявил что началась массовая замена звезд светильников на куполе Плоской Земли
+http://motivation.pp.ua/main/nebo/3.mp4
+#EXTINF:644.585,+++С Побережья Сиднея Видно Новую Зеландию на Расстоянии 1500 км
+http://motivation.pp.ua/main/nebo/4.mp4
+#EXTINF:557.627,+++Почему спутники связи над Плоской Землей запускают  в безлюдных местах и без ракет
+http://motivation.pp.ua/main/nebo/5.mp4
+#EXTINF:3183.83,Солнце как искусственный объект над Плоской Землей
+http://motivation.pp.ua/main/nebo/6.mp4
+#EXTINF:440.993,+++Солнце над Плоской Землей начало тускнеть и мигать как перегоревшая галогенка Скоро будут менять
+http://motivation.pp.ua/main/nebo/7.mp4
+#EXTINF:1116.16,+++Звезды и планеты падают с неба в виде шаров А может это ядра Барона Мюнхгаузена
+http://motivation.pp.ua/main/nebo/8.mp4
+#EXTINF:387.541,CNN признало что фторид разрушает мозг и снижает IQ
+http://motivation.pp.ua/main/nebo/9.mp4
+#EXTINF:230.389,+++Гравитационная аномалия в небе Швейцарии в зоне пролегания туннеля Большого адронного коллайдера
+http://motivation.pp.ua/main/nebo/10.mp4
+#EXTINF:846.668,+++Плоская Земля.  Отбившийся от Экскурсии Турист в NASA  Случайно Снял Подпольное МКС с Астронавтами
+http://motivation.pp.ua/main/nebo/11.mp4
+#EXTINF:205.986,С закрытых территорий Австралии видно что солнце не заходит за горизонт
+http://motivation.pp.ua/main/nebo/12.webm
+#EXTINF:86.0283,С южных территорий Австралии иногда можно увидеть Солнце соседней СОТЫ Плоской Земли
+http://motivation.pp.ua/main/nebo/13.mp4
+#EXTINF:253.608,В АНТАРКТИДЕ ПОЛЯРНИК СНЯЛ НА ВИДЕО ДВЕ ЛУНЫ ЧТО ТВОРИТСЯ НА ПЛОСКОЙ ЗЕМЛЕ?
+http://motivation.pp.ua/main/nebo/14.mp4
+#EXTINF:215.875,ОПЯТЬ ПОД КУПОЛОМ ПЛОСКОЙ ЗЕМЛИ ГОЛОГРАММА ЛУНЫ ДАЛА СБОЙ
+http://motivation.pp.ua/main/nebo/15.mp4
+#EXTINF:411.202,ПРОСТОЙ ЭКСПЕРИМЕНТ ПОКАЗАЛ ПИЛОТ ЧТО ГРАВИТАЦИИ НЕТ ПОД КУПОЛОМ ПЛОСКОЙ ЗЕМЛИ
+http://motivation.pp.ua/main/nebo/16.mp4
+#EXTINF:216.618,+++На юге Австралии отлично видно что Солнце не заходит за горизонт а уплывает вдаль над Плоской Землей
+http://motivation.pp.ua/main/nebo/17.mp4
+#EXTINF:298.352,+++Замена лампочки “Солнца“ снято на камеру с самолета.
+http://motivation.pp.ua/main/nebo/18.mp4
+#EXTINF:223.793,+++СОЛНЦЕ ЛАМПОЧКУ ПОЗДНО ЗАЖГЛИ ПОД КУПОЛОМ ПЛОСКОЙ ЗЕМЛИ
+http://motivation.pp.ua/main/nebo/20.mp4
+#EXTINF:118.328,+++++Как на самом деле запускают спутники над Плоской Землей чтобы они не продырявили купол
+http://motivation.pp.ua/main/nebo/21.mp4
+#EXTINF:429.383,+++В небе за куполом Плоской Земли живут твари похожие на драконов и иногда они проникают к нам
+http://motivation.pp.ua/main/nebo/22.mp4
+#EXTINF:1116.02,+++С купола  периодически отваливаются звезды в виде светильников.
+http://motivation.pp.ua/main/nebo/23.mp4
+#EXTINF:663.115,+++Радиорелейщик о связи на земле Тропосферная связь
+http://motivation.pp.ua/main/nebo/24.mp4
